@@ -2,6 +2,9 @@
 <html>
 
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
  <title>EwanJams</title>
  <link rel="icon" type="image/x-icon" href="/images/favicon.png">
 <style>
@@ -23,7 +26,10 @@ body {
 }
 
 /* Page Content */
-.content {padding:20px;}
+.content {
+	padding:20px;
+	color: white;
+}
 </style>
 </head>
 
@@ -36,9 +42,6 @@ body {
 	<p>Trying to battle Wix overcharging so I'm learning HTML please bear with.</p>
 	<p>Page background by https://deep-6-genetics-lab.tumblr.com/</p>
 </div>
-
-<h1>Ewan J. Fisher<h1>
-<h3>aka EwanJams<h3>
 
 
 </body>
