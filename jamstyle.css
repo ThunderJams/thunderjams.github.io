@@ -45,6 +45,20 @@ body {
   float: right;
 }
 
+.banner-text {
+	padding-left:20px;
+	text-align: left;
+}
+
+
+.bannerFH {
+  overflow: hidden;
+  background-color: purple;
+  padding: 20px 10px;
+  background-image: url('/images/banners/FH.png');
+  
+}
+
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
@@ -55,7 +69,15 @@ body {
   .header-right {
     float: none;
   }
+  
+  .header bannerFH {
+    float: none;
+    display: block;
+    text-align: left;
+  }
 }
+
+
 
 /* Page Content */
 .content {
