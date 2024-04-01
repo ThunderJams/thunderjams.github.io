@@ -48,7 +48,7 @@ backdrop-filter: brightness(0%);
 .banner-text {
 	padding-left:20px;
 	text-align: left;
-	backdrop-filter: saturation(20%);
+	backdrop-filter: saturate(20%);
 }
 
 
