@@ -47,7 +47,7 @@ body {
 .buttonFH {
   background-color: white; 
   color: black; 
-  border: purple;
+  border: 2px solid purple;
 }
 
 .buttonFH:hover {
@@ -58,7 +58,7 @@ body {
 .buttonRR {
   background-color: white; 
   color: black; 
-  border: purple;
+  border: 2px solid #8CC7C6;
 }
 
 .buttonRR:hover {
@@ -69,7 +69,7 @@ body {
 .buttonGG {
   background-color: white; 
   color: black; 
-  border: purple;
+  border: 2px solid indigo;
 }
 
 .buttonGG:hover {
@@ -80,7 +80,7 @@ body {
 .buttonCT {
   background-color: white; 
   color: black; 
-  border: purple;
+  border: 2px solid #C43623;
 }
 
 .buttonCT:hover {
@@ -91,7 +91,7 @@ body {
 .buttonCAT {
   background-color: white; 
   color: black; 
-  border: purple;
+  border: 2px solid BlanchedAlmond;
 }
 
 .buttonCAT:hover {
@@ -102,7 +102,7 @@ body {
 .buttonRH {
   background-color: white; 
   color: black; 
-  border: purple;
+  border: 2px solid DarkOrange;
 }
 
 .buttonRH:hover {
@@ -115,12 +115,23 @@ body {
 .buttonMR {
   background-color: white; 
   color: black; 
-  border: purple;
+  border: 2px solid gold;
 }
 
 .buttonMR:hover {
   color: black;
   background-image: url('/images/buttons/MR.png');
+}
+
+.buttonBF {
+  background-color: white; 
+  color: black; 
+  border: 2px solid maroon;
+}
+
+.buttonBF:hover {
+  color: black;
+  background-image: url('/images/buttons/BF.png');
 }
 
 .buttonHP {
