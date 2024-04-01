@@ -61,7 +61,7 @@ body {
 
 .bannerHP {
   overflow: hidden;
-  background-color: purple;
+  background-color: slategray;
   padding: 20px 10px;
   background-image: url('/images/banners/HP.png');
   
