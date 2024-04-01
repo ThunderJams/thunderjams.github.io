@@ -21,43 +21,56 @@
 </a>
 
 <div class="content">
-	<h4>Everything anyone would ever need can be found below!</h4>
-	<h4>Contact me at: <a href="mailto:ewanjamsf@gmail.com">ewanjamsf@gmail.com</a></h4>
+	<h3>Award winning independent game developer, freelancer, writer. Looking for the whimsical, creative, and unknown in every little thing I find and make.</h3>
+	<h3>Everything anyone would ever need can be found below!</h3>
+	<h3>Contact me at: <a href="mailto:ewanjamsf@gmail.com">ewanjamsf@gmail.com</a></h3>
 	<a href="about.html"><button class="button buttonN">About</button></a>
 	<a href="https://docs.google.com/document/d/1uWDHYkmUhAIvZXIl_1E0ilI6wrWB_9rwxaxe8pR_ml8/edit?usp=sharing"><button class="button buttonN">CV</button></a>
-	<button class="button buttonN">Contact</button>
+	<button class="button buttonN" href="mailto:ewanjamsf@gmail.com">Contact</button>
 	<hr>
-	<h4>Projects I've worked on (the good stuff!)</h4>
-	<div class="bannerFH">
-		<div class ="banner-text">
+	<h2>Major Work!</h2>
+	
+	<a href="missing.html"><button class="button buttonFH">
+	<div class ="banner-text">
 		<h3>For Hexposure</h3>
 		<h4>Multi-award winning game about being an witch struggling to run her potion shop in a whimsically captisalist fantasy land. I act as Lead Programmer and Narrative Designer.</h4>
-	</div>
-	</div>
-	
-	
-	<button class="button buttonFH">For Hexposure</button>
-	<button class="button buttonHP">Honours Project</button>
+		</div>
+		</button></a>
+		<br>
+		
+		<a href="missing.html"><button class="button buttonFH">
+	<button class="button buttonHP"><div class ="banner-text">
+		<h3>Honours Project</h3>
+		<h4>Procedural Generation techniques used to create new 3D platforming levels during runtime!</h4>
+		</div></button></a>
 	<br>
-	<button class="button buttonFW">Freelance Work</button>
-	<button class="button buttonUW">University Work</button>
+	
+	<a href="missing.html"><button class="button buttonFH">
+	<button class="button buttonFW"><div class ="banner-text"><h3>Freelance Work</h3>
+		<h4>A collection of projects and roles I have worked on as a freelancer.</h4>
+		</div></button></a><br>
+		
+		<a href="missing.html"><button class="button buttonFH">
+	<button class="button buttonUW"><div class ="banner-text"><h3>University Work</h3>
+		<h4>A collection of projects I worked on during my studies at Abertay University.</h4>
+		</div></button></a>
 	<hr>
 	
-	<h4>Game Jams - 2024!</h4>
+	<h3>Game Jams - 2024!</h3>
 	<button class="button buttonCT">Clown Therapy</button>
 	
-	<h4>Game Jams - 2023!</h4>
+	<h3>Game Jams - 2023!</h3>
 	<button class="button buttonCAT">Tower of Catasrophe</button>
 	<button class="button buttonBF">Bar Fight Cleaner</button>
 	<button class="button buttonRH">Rhythm Henry</button>
 	<button class="button buttonMR">Mushroomba</button>
 	
-	<h4>Game Jams - 2022 and Earlier!</h4>
+	<h3>Game Jams - 2022 and Earlier!</h3>
 	<button class="button buttonRR">There's a Rat in My Robot!</button>
 	<button class="button buttonGG">Gumball Galaxy</button>
 	<hr>
 	
-	<h4>Other places I can be discovered!</h4>
+	<h3>Other places I can be discovered!</h3>
 	<a href="https://yellow-crow.itch.io/"><button class="button buttonN2">Yellow Crow Games</button></a>
 	<a href="https://thunderjams.itch.io/"><button class="button buttonN2">itch.io</button></a>
 	
