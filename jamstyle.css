@@ -48,6 +48,7 @@ backdrop-filter: brightness(0%);
 .banner-text {
 	padding-left:20px;
 	text-align: left;
+	backdrop-filter: blur(2px);
 }
 
 
@@ -64,7 +65,7 @@ backdrop-filter: brightness(0%);
   background-color: slategray;
   padding: 20px 10px;
   background-image: url('/images/banners/HP.png');
-  
+ 
 }
 
 .bannerFW {
@@ -72,7 +73,7 @@ backdrop-filter: brightness(0%);
   background-color: MediumSeaGreen;
   padding: 20px 10px;
   background-image: url('/images/banners/FW.png');
-  
+
 }
 
 .bannerUW {
@@ -80,6 +81,7 @@ backdrop-filter: brightness(0%);
   background-color: MediumSlateBlue;
   padding: 20px 10px;
   background-image: url('/images/banners/UW.png');
+
   
 }
 
