@@ -46,7 +46,8 @@ body {
 }
 
 .button:hover{
-filter: blur(4px);
+ backdrop-filter: blur(2px);
+ backdrop-filter: blur(2px);
 }
 
 
