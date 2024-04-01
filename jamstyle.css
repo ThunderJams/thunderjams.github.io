@@ -36,7 +36,6 @@ body {
 }
 
 .button:hover{
- backdrop-filter: blur(20px);
  color: white;
 }
 
@@ -175,13 +174,13 @@ body {
   color: white;
 }
 
-.buttonN {
+.buttonN2 {
   background-color: white; 
 
   border: 4px solid MediumOrchid;
 }
 
-.buttonN:hover {
+.buttonN2:hover {
   background-color: MediumOrchid;
   color: white;
 }
