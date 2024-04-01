@@ -174,14 +174,3 @@ body {
   background-color: #04AA6D;
   color: white;
 }
-
-.buttonN {
-  background-color: white; 
-
-  border: 4px solid MediumOrchid;
-}
-
-.buttonN:hover {
-  background-color: MediumOrchid;
-  color: white;
-}
