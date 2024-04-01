@@ -3,7 +3,7 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
   text-align: center;
   
-  background-image: url('/images/carpetBackground.png');
+  background-image: url('/images/carpetBackgroundBlur.png');
 }
 
 /* Header/Logo Title */
@@ -12,7 +12,7 @@ body {
   overflow: hidden;
   background-color: black;
   padding: 20px 10px;
- backdrop-filter: brightness(0%);
+backdrop-filter: brightness(0%);
 }
 
 .header a {
@@ -107,7 +107,6 @@ body {
 .content {
 	padding:30px;
 	color: white;
- backdrop-filter: blur(2px);
 }
 
 .button {
