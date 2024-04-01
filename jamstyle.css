@@ -94,7 +94,25 @@ backdrop-filter: brightness(0%);
     float: none;
   }
   
-  .header bannerFH {
+  .bannerFH {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .bannerHP {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .bannerFW {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .bannerUW {
     float: none;
     display: block;
     text-align: left;
@@ -106,7 +124,7 @@ backdrop-filter: brightness(0%);
 /* Page Content */
 .content {
 	padding:30px;
-	color: white;
+	color: white; 
 }
 
 .button {

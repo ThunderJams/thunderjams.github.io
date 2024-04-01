@@ -107,7 +107,6 @@ backdrop-filter: brightness(0%);
 .content {
 	padding:30px;
 	color: white;
- backdrop-filter: blur(2px);
 }
 
 .button {
