@@ -23,7 +23,8 @@ body {
 
 .button {
   border: none;
-  color: white;
+  color: black;
+  color: black;
   padding: 16px 34px;
   text-align: center;
   text-decoration: none;
@@ -36,7 +37,6 @@ body {
 }
 
 .button:hover{
- backdrop-filter: blur(20px);
  color: white;
 }
 
