@@ -16,7 +16,14 @@ body {
   background-image: url('/images/carpetBackground.png');
 }
 
-
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #AF38CD;
+  color: white;
+  font-size: 30px;
+}
 
 /* Page Content */
 .content {
@@ -86,12 +93,16 @@ body {
 </head>
 
 <body>
-
-
-<div class="content">
-	/*<img src="/images/header.png" alt="ThunderJams banner">*/
+<div class="header">
 	<h1>Ewan J. Fisher</h1>
 	<h3>Freelance Game Developer and Person with Hands</h3>
+
+	
+	
+	
+</div>
+
+<div class="content">
 	<hr>
 	<p>Trying to battle Wix overcharging so I'm learning HTML please bear with.</p>
 	<button class="button buttonN">About</button>
@@ -99,7 +110,7 @@ body {
 	<button class="button buttonN">Contact</button>
 	<hr>
 	<h4>Projects I've worked on (the good stuff!)</h4>
-	<button class="button buttonN">Freelance Work</button>
+	<button class="button buttonFW">Freelance Work</button>
 	<button class="button buttonFH">For Hexposure</button>
 	<button class="button buttonHP">Honours Project</button>
 	<br>
