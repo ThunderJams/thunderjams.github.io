@@ -19,6 +19,7 @@ body {
 .content {
 	padding:20px;
 	color: white;
+ backdrop-filter: blur(4px);
 }
 
 .button {
