@@ -21,7 +21,7 @@ body {
   padding: 60px;
   text-align: center;
   background: #AF38CD;
-  color: white;
+  color: black;
   font-size: 30px;
 }
 
@@ -51,8 +51,76 @@ body {
 }
 
 .buttonFH:hover {
-  color: white;
+  color: black;
   background-image: url('/images/buttons/FH.png');
+}
+
+.buttonRR {
+  background-color: white; 
+  color: black; 
+  border: purple;
+}
+
+.buttonRR:hover {
+  color: black;
+  background-image: url('/images/buttons/RR.png');
+}
+
+.buttonGG {
+  background-color: white; 
+  color: black; 
+  border: purple;
+}
+
+.buttonGG:hover {
+  color: black;
+  background-image: url('/images/buttons/GG.png');
+}
+
+.buttonCT {
+  background-color: white; 
+  color: black; 
+  border: purple;
+}
+
+.buttonCT:hover {
+  color: black;
+  background-image: url('/images/buttons/CT.png');
+}
+
+.buttonCAT {
+  background-color: white; 
+  color: black; 
+  border: purple;
+}
+
+.buttonCAT:hover {
+  color: black;
+  background-image: url('/images/buttons/CAT.png');
+}
+
+.buttonRH {
+  background-color: white; 
+  color: black; 
+  border: purple;
+}
+
+.buttonRH:hover {
+  color: black;
+  background-image: url('/images/buttons/RH.png');
+  
+  
+}
+
+.buttonMR {
+  background-color: white; 
+  color: black; 
+  border: purple;
+}
+
+.buttonMR:hover {
+  color: black;
+  background-image: url('/images/buttons/MR.png');
 }
 
 .buttonHP {
@@ -62,7 +130,7 @@ body {
 }
 
 .buttonHP:hover {
-  color: white;
+  color: black;
   background-image: url('/images/buttons/HP.png');
 }
 
@@ -73,8 +141,8 @@ body {
 }
 
 .buttonFW:hover {
-  color: white;
-  background-image: url('/images/background.png');
+  color: black;
+  background-image: url('background.png');
 }
 
 
@@ -96,15 +164,10 @@ body {
 <div class="header">
 	<h1>Ewan J. Fisher</h1>
 	<h3>Freelance Game Developer and Person with Hands</h3>
-
-	
-	
-	
 </div>
 
 <div class="content">
-	<hr>
-	<p>Trying to battle Wix overcharging so I'm learning HTML please bear with.</p>
+	<h4>Trying to battle Wix overcharging so I'm learning HTML please bear with.</h4>
 	<button class="button buttonN">About</button>
 	<button class="button buttonN">CV</button>
 	<button class="button buttonN">Contact</button>
@@ -112,21 +175,20 @@ body {
 	<h4>Projects I've worked on (the good stuff!)</h4>
 	<button class="button buttonFW">Freelance Work</button>
 	<button class="button buttonFH">For Hexposure</button>
-	<button class="button buttonHP">Honours Project</button>
 	<br>
+	<button class="button buttonHP">Honours Project</button>
 	<button class="button buttonN">Uni Projects</button>
-	<button class="button buttonN">Honours Project</button>
 	<hr>
 	<h4>Game Jams - 2024!</h4>
-	<button class="button buttonN">Clown Therapy</button>
+	<button class="button buttonCT">Clown Therapy</button>
 	<h4>Game Jams - 2023!</h4>
-	<button class="button buttonN">Tower of Catasrophe</button>
-	<button class="button buttonN">Bar Fight Cleaner</button>
-	<button class="button buttonN">Rhythm Henry</button>
-	<button class="button buttonN">Mushroomba</button>
+	<button class="button buttonCAT">Tower of Catasrophe</button>
+	<button class="button buttonBF">Bar Fight Cleaner</button>
+	<button class="button buttonRH">Rhythm Henry</button>
+	<button class="button buttonMR">Mushroomba</button>
 	<h4>Game Jams - 2022 and Earlier!</h4>
-	<button class="button buttonN">There's a Rat in My Robot!</button>
-	<button class="button buttonN">Gumball Galaxy</button>
+	<button class="button buttonRR">There's a Rat in My Robot!</button>
+	<button class="button buttonGG">Gumball Galaxy</button>
 	
 	<hr>
 	<p>Page background by https://deep-6-genetics-lab.tumblr.com/</p>
