@@ -44,9 +44,8 @@ body {
 }
 
 .buttonFH:hover {
-  background-color: #04AA6D;
   color: white;
-  background-image: url('/images/FH.png');
+  background-image: url('/images/buttons/FH.png');
 }
 
 .buttonHP {
@@ -56,9 +55,8 @@ body {
 }
 
 .buttonHP:hover {
-  background-color: #04AA6D;
   color: white;
-  background-image: url('/images/HP.png');
+  background-image: url('/images/buttons/HP.png');
 }
 
 .buttonFW {
@@ -68,9 +66,8 @@ body {
 }
 
 .buttonFW:hover {
-  background-color: #04AA6D;
   color: white;
-  background-image: url('/images/carpetBackground.png');
+  background-image: url('/images/background.png');
 }
 
 
@@ -78,11 +75,11 @@ body {
 .buttonN {
   background-color: white; 
   color: black; 
-  border: 2px solid #008CBA;
+  border: 2px solid #04AA6D;
 }
 
 .buttonN:hover {
-  background-color: #008CBA;
+  background-color: #04AA6D;
   color: white;
 }
 </style>
@@ -92,7 +89,8 @@ body {
 
 
 <div class="content">
-	<img src="/images/header.png" alt="ThunderJams banner">
+	/*<img src="/images/header.png" alt="ThunderJams banner">*/
+	<h1>Ewan J. Fisher</h1>
 	<h3>Freelance Game Developer and Person with Hands</h3>
 	<hr>
 	<p>Trying to battle Wix overcharging so I'm learning HTML please bear with.</p>
@@ -101,23 +99,23 @@ body {
 	<button class="button buttonN">Contact</button>
 	<hr>
 	<h4>Projects I've worked on (the good stuff!)</h4>
-	<button class="button button1">Freelance Work</button>
+	<button class="button buttonN">Freelance Work</button>
 	<button class="button buttonFH">For Hexposure</button>
-	<button class="button button1">Honours Project</button>
+	<button class="button buttonHP">Honours Project</button>
 	<br>
-	<button class="button button1">Uni Projects</button>
-	<button class="button button1">Honours Project</button>
+	<button class="button buttonN">Uni Projects</button>
+	<button class="button buttonN">Honours Project</button>
 	<hr>
 	<h4>Game Jams - 2024!</h4>
-	<button class="button button1">Clown Therapy</button>
+	<button class="button buttonN">Clown Therapy</button>
 	<h4>Game Jams - 2023!</h4>
-	<button class="button button1">Tower of Catasrophe</button>
-	<button class="button button1">Bar Fight Cleaner</button>
-	<button class="button button1">Rhythm Henry</button>
-	<button class="button button1">Mushroomba</button>
+	<button class="button buttonN">Tower of Catasrophe</button>
+	<button class="button buttonN">Bar Fight Cleaner</button>
+	<button class="button buttonN">Rhythm Henry</button>
+	<button class="button buttonN">Mushroomba</button>
 	<h4>Game Jams - 2022 and Earlier!</h4>
-	<button class="button button1">There's a Rat in My Robot!</button>
-	<button class="button button1">Gumball Galaxy</button>
+	<button class="button buttonN">There's a Rat in My Robot!</button>
+	<button class="button buttonN">Gumball Galaxy</button>
 	
 	<hr>
 	<p>Page background by https://deep-6-genetics-lab.tumblr.com/</p>
