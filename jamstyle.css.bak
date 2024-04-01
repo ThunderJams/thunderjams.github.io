@@ -55,7 +55,31 @@ body {
   overflow: hidden;
   background-color: purple;
   padding: 20px 10px;
-  background-image: url('/images/buttons/FH.png');
+  background-image: url('/images/banners/FH.png');
+  
+}
+
+.bannerHP {
+  overflow: hidden;
+  background-color: purple;
+  padding: 20px 10px;
+  background-image: url('/images/banners/HP.png');
+  
+}
+
+.bannerFW {
+  overflow: hidden;
+  background-color: palegreen;
+  padding: 20px 10px;
+  background-image: url('/images/banners/FW.png');
+  
+}
+
+.bannerUW {
+  overflow: hidden;
+  background-color: MediumSlateBlue;
+  padding: 20px 10px;
+  background-image: url('/images/banners/UW.png');
   
 }
 

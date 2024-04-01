@@ -59,6 +59,30 @@ body {
   
 }
 
+.bannerHP {
+  overflow: hidden;
+  background-color: slategray;
+  padding: 20px 10px;
+  background-image: url('/images/banners/HP.png');
+  
+}
+
+.bannerFW {
+  overflow: hidden;
+  background-color: palegreen;
+  padding: 20px 10px;
+  background-image: url('/images/banners/FW.png');
+  
+}
+
+.bannerUW {
+  overflow: hidden;
+  background-color: MediumSlateBlue;
+  padding: 20px 10px;
+  background-image: url('/images/banners/UW.png');
+  
+}
+
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
