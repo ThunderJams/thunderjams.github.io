@@ -64,7 +64,7 @@ backdrop-filter: brightness(0%);
   overflow: hidden;
   background-color: slategray;
   padding: 20px 10px;
-  background-image: url('/images/banners/HP.png');
+  background-image: url('/images/banners/HP.PNG');
  
 }
 
@@ -72,7 +72,7 @@ backdrop-filter: brightness(0%);
   overflow: hidden;
   background-color: MediumSeaGreen;
   padding: 20px 10px;
-  background-image: url('/images/banners/FW.png');
+  background-image: url('/images/banners/FW.PNG');
 
 }
 
