@@ -10,7 +10,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: black;
+  background-color: gray;
   padding: 20px 10px;
 backdrop-filter: brightness(0%);
 }
@@ -46,10 +46,16 @@ backdrop-filter: brightness(0%);
 }
 
 .banner-text {
-	padding-left:20px;
+	padding:20px;
 	text-align: left;
 	background: rgba(0,0,0,0.5);
 }
+
+.bodytext {
+	padding:20px;
+	background: rgba(0,0,0,0.5);
+}
+
 
 
 .bannerFH {

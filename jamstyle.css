@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: gray;
   font-family: 'Trebuchet MS', sans-serif;
   text-align: center;
   
@@ -12,7 +12,6 @@ body {
   overflow: hidden;
   background-color: black;
   padding: 20px 10px;
-backdrop-filter: brightness(0%);
 }
 
 .header a {
@@ -50,6 +49,12 @@ backdrop-filter: brightness(0%);
 	text-align: left;
 	background: rgba(0,0,0,0.5);
 }
+
+.bodytext {
+	padding:20px;
+	background: rgba(0,0,0,0.5);
+}
+
 
 
 .bannerFH {
