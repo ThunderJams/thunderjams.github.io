@@ -50,12 +50,25 @@ body {
 	background: rgba(0,0,0,0.5);
 }
 
-.bodytext {
+.bodymain {
 	padding:20px;
 	background: rgba(0,0,0,0.5);
+	float: left;
+	margin-right:200px;
+	margin-left:200px;
 }
 
+.bodytext {
+	
+	
 
+}
+
+.mobile {
+	visibility:hidden;
+	
+
+}
 
 .bannerFH {
   overflow: hidden;
@@ -131,6 +144,41 @@ border: 4px solid black
     display: block;
     text-align: left;
   }
+  
+  .bodymain {
+	padding:20px;
+	background: rgba(0,0,0,0.5);
+	float: left;
+	margin-right:0px;
+	margin-left:0px;
+}
+
+
+}
+
+@media screen and (max-width: 1200px) {
+
+  
+  .bodymain {
+	padding:20px;
+	background: rgba(0,0,0,0.5);
+	float: left;
+	margin-right:0px;
+	margin-left:0px;
+}
+
+.responsive {
+  visibility:hidden;
+  float: none;
+  width: 0%;
+}
+
+.mobile {
+	visibility:visible;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
 }
 
 
