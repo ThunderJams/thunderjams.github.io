@@ -48,7 +48,7 @@ backdrop-filter: brightness(0%);
 .banner-text {
 	padding-left:20px;
 	text-align: left;
-	filter: blur(0px);
+	background: rgba(0,0,0,0.5);
 }
 
 
@@ -57,23 +57,23 @@ backdrop-filter: brightness(0%);
   background-color: purple;
   padding: 20px 10px;
   background-image: url('/images/banners/FH.png');
-  filter: blur(2px);
+  border: 4px solid black
 }
 
 .bannerHP {
   overflow: hidden;
   background-color: slategray;
   padding: 20px 10px;
-  background-image: url('/images/banners/HP.png');
-  filter: blur(2px);
+  background-image: url('/images/banners/HP.PNG');
+ border: 4px solid black
 }
 
 .bannerFW {
   overflow: hidden;
   background-color: MediumSeaGreen;
   padding: 20px 10px;
-  background-image: url('/images/banners/FW.png');
-  filter: blur(2px);
+  background-image: url('/images/banners/FW.PNG');
+border: 4px solid black
 }
 
 .bannerUW {
@@ -81,7 +81,7 @@ backdrop-filter: brightness(0%);
   background-color: MediumSlateBlue;
   padding: 20px 10px;
   background-image: url('/images/banners/UW.png');
-  filter: blur(2px);
+border: 4px solid black
   
 }
 
