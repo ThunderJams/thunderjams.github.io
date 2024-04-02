@@ -90,6 +90,13 @@ border: 4px solid black
   
 }
 
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  float: right;
+}
+
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
