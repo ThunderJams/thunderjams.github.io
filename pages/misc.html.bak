@@ -18,10 +18,10 @@
   
     	<h3>Freelance Game Developer, Easily Distracted</h3>
 		<div class="header-right">
-		<a href="index.html"><button class="button buttonN">Projects Hub</button></a>
-<a href="about.html"><button class="button buttonN">About</button></a>
+		<a href="/index.html"><button class="button buttonN">Projects Hub</button></a>
+<a href="/about.html"><button class="button buttonN">About</button></a>
 
-<a href="blog.html"><button class="button buttonN">Blog</button></a>
+<a href="/blog.html"><button class="button buttonN">Blog</button></a>
 	<a href="https://docs.google.com/document/d/1uWDHYkmUhAIvZXIl_1E0ilI6wrWB_9rwxaxe8pR_ml8/edit?usp=sharing"><button class="button buttonN">CV</button></a>
 	<a href="mailto:ewanjamsf@gmail.com"><button class="button buttonN">Contact</button></a>
 </div></div>
@@ -37,6 +37,7 @@
 <h4>This is all entirely self-indulgent, so that's why it's tucked here at the bottom. But on the off chance someone else is reading all of this, let me know! My emails are always open.</h4>
 <h4>"I feel, at any given time, tuggеd in all directions at once. That is, if anything can be thus dеscribed, my defining quality." - the Narcissist Cookbook, STOPPING A GARDEN HOSE WITH YOUR THUMB</h4>
 
+<br>
 <br>
 
 <h3 id="Music">Music</h3>
@@ -82,6 +83,7 @@ Your browser does not support the audio element.
   <div class="desc">streetlight (21/12/2023)</div>
 </div>
 </div>
+
 <div class="responsiveG">
 <div class="gallery">
   <a target="_blank" href="/images/art/dundonian_moons.jpg">
@@ -89,33 +91,51 @@ Your browser does not support the audio element.
   </a>
   <div class="desc">Dundonian Moons (21/12/2023)</div>
 </div>
+</div>
 
+<div class="responsiveG">
+<div class="gallery">
+  <a target="_blank" href="/images/art/baja.jpg">
+    <img src="/images/art/baja.jpg" alt="Art of my DnD character, Baja (the Blast) Herbert" width="600" height="400">
+  </a>
+  <div class="desc">Baja "the Blast" Herbert (22/02/2021)</div> 
+</div>
+</div>
+
+<div class="responsiveG">
 <div class="gallery">
   <a target="_blank" href="/images/art/spirit.jpg">
     <img src="/images/art/spirit.jpg" alt="Art of Mismagius from Pokémon Diamond and Pearl" width="600" height="400">
   </a>
   <div class="desc">Wandering Spirit Haunting the Lost Tower (31/10/2020)</div>
 </div>
+</div>
 
+<div class="responsiveG">
 <div class="gallery">
   <a target="_blank" href="/images/art/deathpeak.jpg">
     <img src="/images/art/deathpeak.jpg" alt="Art of Crono and Robo from Chrono Trigger hugging beneath a dead tree with an ominous daybreak in the background" width="600" height="400">
   </a>
   <div class="desc">Death's Peak (27/09/2020)</div>
 </div>
+</div>
 
+<div class="responsiveG">
 <div class="gallery">
   <a target="_blank" href="/images/art/lavareef.jpg">
     <img src="/images/art/lavareef.jpg" alt="Pencil Illustration of Lava Reef Zone" width="600" height="400">
   </a>
   <div class="desc">Pencil Illustration of Lava Reef Zone (03/09/2020)</div>
 </div>
+</div>
 
+<div class="responsiveG">
 <div class="gallery">
   <a target="_blank" href="/images/art/star_light.jpg">
     <img src="/images/art/star_light.jpg" alt="Art of Sonic the Heghehog looking up at Star Light Zone" width="600" height="400">
   </a>
   <div class="desc">Gazing Under the Star Light (03/08/2020)</div>
+</div>
 </div>
 
 <div class="clearfix"></div>
