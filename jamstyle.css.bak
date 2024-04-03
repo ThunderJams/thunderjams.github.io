@@ -186,7 +186,7 @@ border: 4px solid black
 }
 }
 
-.permaimg {
+.perma-img {
 	visibility:visible;
   width: 100%;
   max-width: 400px;
