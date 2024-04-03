@@ -393,10 +393,7 @@ iframe {
 }
 
 div.gallery {
-  margin: 5px;
   border: 1px solid #ccc;
-  float: left;
-  width: 180px;
 }
 
 div.gallery:hover {
@@ -411,6 +408,29 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsiveG {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsiveG {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsiveG {
+    width: 100%;
+  }
 }
 
 .clearfix:after {
