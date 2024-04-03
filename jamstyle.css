@@ -98,6 +98,14 @@ ul {
  border: 4px solid black
 }
 
+.bannerMR {
+  overflow: hidden;
+  background-color: gold;
+  padding: 20px 10px;
+  background-image: url('/images/banners/MR.PNG');
+ border: 4px solid black
+}
+
 .bannerFW {
   overflow: hidden;
   background-color: MediumSeaGreen;
