@@ -12,7 +12,7 @@
 
 <body>
  <a href="index.html" class="logo">
-<div class="header">
+<div class="header" id="grad1">
 
   <h1 class="logo">Ewan J. Fisher</h1>
   
