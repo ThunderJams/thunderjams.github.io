@@ -69,10 +69,15 @@
 		<a href="uniprojects.html"><button class="button buttonUW">Check it out!</button></a>
 	</div>
 	
+	<div class="bannerMR">
+		<div class ="banner-text">
+		<h3>Game Jams</h3>
+		<h4>A hub page for all of the Game Jams I've worked on! Individual jam games can be easily browsed below this banner.</h4>
+		</div>
+		<a href="gamejams.html"><button class="button buttonN">Check it out!</button></a>
+	</div>
+	
 	<hr>
-	        <h2>All of the Game Jams</h2>
-        <a href="gamejams.html"><button class="button buttonN">Game Jams Page</button></a>
-
 <br>
 
 	<h3>Game Jams - 2024</h3>
