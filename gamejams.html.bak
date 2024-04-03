@@ -45,7 +45,7 @@ src="https://www.youtube.com/embed/Q7DfGH8duCg?autoplay=1&mute=1">
 <h3 id="CAT">Tower of Catastrophe</h3>
 <h4>Created for GitHub's Game Off Jam in November 2023 - I was a programmer for this game jam - mainly working with the UI and helping with game design.</h4>
 <h4>The game went on to be in the top 10 highest rated games of the jam, out of all 630 entries, and was featured in GitHub's blog posts and on their YouTube channel! It was a huge honour to be showcased and huge props to the other creatives on the team.</h4>
- <a href="https://ayperosia.itch.io/tower-of-catastrophe"><button class="button buttonN2">Check it out!</button></a><br>
+ <a href="https://ayperosia.itch.io/tower-of-catastrophe"><button class="button buttonN2">Check it out!</button><br>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/vc4D6JNbCao?autoplay=1&mute=1">
 </iframe> 
@@ -54,7 +54,7 @@ src="https://www.youtube.com/embed/vc4D6JNbCao?autoplay=1&mute=1">
 <h3 id="BF">Bar Fight Cleaner</h3>
 <h4>write something.</h4>
 <h4>do it!</h4>
- <a href="https://cyps.itch.io/bar-fight-cleaner"><button class="button buttonN2">Check it out!</button></a><br>
+ <a href="https://cyps.itch.io/bar-fight-cleaner"><button class="button buttonN2">Check it out!</button><br>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/orWPrRgxd_U?autoplay=1&mute=1">
 </iframe> 
@@ -64,7 +64,7 @@ src="https://www.youtube.com/embed/orWPrRgxd_U?autoplay=1&mute=1">
 <h4>A collaboration between me and fellow incomprehensible cryptid Henry Neff - Rhythm Henry is a rhythm game based on a true story. We had a collection of professional headshots, a total zero hours of Godot Engine experience - and a dream: this is the result.</h4>
 <h4>It was really good to learn how to use Godot - it's really the best of both worlds. No bloat, but it somehow has everything you need. Super easy to translate over Unity experience to it, love the built-in tweening in particular (you can see I use an abundance of it for squash and stretch).</h4>
 <h4>I think a two person game jam leads to the most perfect chaos - no interference, but enough collaboration and improv to "yes and-" all of your worst/best ideas. I had been very obsessed with Rhythm Heaven at the time, Henry said let's roll with that, and we made this beautiful monstrosity. As much as I joke about it, many people have said they love it, which makes me really happy.</h4>
- <a href="https://thunderjams.itch.io/rhythm-henry"><button class="button buttonN2">Check it out!</button></a><br>
+ <a href="https://thunderjams.itch.io/rhythm-henry"><button class="button buttonN2">Check it out!</button><br>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/0Z2DsKjGgeM?autoplay=1&mute=1">
 </iframe> 
@@ -74,7 +74,7 @@ src="https://www.youtube.com/embed/0Z2DsKjGgeM?autoplay=1&mute=1">
 <h4>Created for Global Game Jam 2023 with Yellow Crow Games - I was involved with the programming for this project. This involved creating the character controller, collision detection and general systems such as the camera zoom out at the end of the game.</h4>
 <h4>The theme for the Game Jam was Roots and our team immediately became enamoured with the idea of theming the game around mushrooms. We toyed with a couple of different ideas such as a Crypt of the Necrodancer-esque rhythm game, before I was struck with the pun inspiration for Mushroom + Roomba and that stuck immediately.</h4>
 <h4>There's a certain surreality to Mushroomba that I adore - everything is chaotic and nothing is explained. There's a couple of objectives, but really, it's just a little playground for the player to explore in and find their own meaning in. You can try and mashroomise everything - or you can just try and write rude words in the mushroom-y soil. Don't worry, I won't tell.</h4>
- <a href="https://yellow-crow.itch.io/mushroomba"><button class="button buttonN2">Check it out!</button></a><br>
+ <a href="https://yellow-crow.itch.io/mushroomba"><button class="button buttonN2">Check it out!</button><br>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/s-F92MYhB14?autoplay=1&mute=1">
 </iframe> 
@@ -83,7 +83,7 @@ src="https://www.youtube.com/embed/s-F92MYhB14?autoplay=1&mute=1">
 <h3 id="RR">There's a Rat in my Robot!</h3>
 <h4>I think it's important to embrace when things... don't go well! There's a Rat in my Robot! is the epitome of biting off more than I could chew. After Gumball Galaxy, the same team went on to make this. It's an asymetric, 3D platformer nightmare that remained untouched for ages.</h4>
 <h4>But if you've made it this far down my portfolio... you're probably me. And I deserve to face my mistakes head on - like a matador. You can attempt to play it below. Keyword attempt.</h4>
- <a href="https://averyblack.itch.io/theres-a-rat-in-my-robot"><button class="button buttonN2">Check it out?</button></a><br>
+ <a href="https://averyblack.itch.io/theres-a-rat-in-my-robot"><button class="button buttonN2">Check it out?</button><br>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/s-F92MYhB14?autoplay=1&mute=1">
 </iframe> 
@@ -93,7 +93,7 @@ src="https://www.youtube.com/embed/s-F92MYhB14?autoplay=1&mute=1">
 <h4>This is a physics-based cooperative puzzle game where two players attempt to guide a Gumball to a fuel pipe. I was involved with level design, concepting and certain mechanics implementing - such as the pistons.</h4>
 <h4>This was my first time programming with a group and working in Unity! As such I had to learn how to use GitHub, branches, and general co-operation and time management skills. For a first project is may have been too ambitious and out of scope for 3 first year programmers - but showing it around to everyone as a game I made was an incredibly validating feeling.</h4>
 <h4>The game was created for a jam hosted by Abertay Game Dev Society in 2019. The theme for the jam has Revolutions - hence the idea for all of the swinging and revolving platforms and interlocking mechanics.</h4>
- <a href="https://averyblack.itch.io/gumball-galaxy"><button class="button buttonN2">Check it out!</button></a><br>
+ <a href="https://averyblack.itch.io/gumball-galaxy"><button class="button buttonN2">Check it out!</button><br>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/s-F92MYhB14?autoplay=1&mute=1">
 </iframe> 

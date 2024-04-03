@@ -11,7 +11,7 @@
 </head>
 
 <body>
- <a href="#index" class="logo">
+ <a href="index.html" class="logo">
 <div class="header">
   <h1 class="logo">Ewan J. Fisher</h1>
   
@@ -44,7 +44,7 @@
 		<h3>Honours Project</h3>
 		<h4>Procedural Generation techniques used to create new 3D platforming levels during runtime!</h4>
 		</div>
-		<a href="missing.html"><button class="button buttonHP">Check it out!</button></a>
+		<a href="honoursproject.html"><button class="button buttonHP">Check it out!</button></a>
 	</div>
 	
 	<div class="bannerFW">
@@ -52,7 +52,7 @@
 		<h3>Freelance Work</h3>
 		<h4>A collection of projects and roles I have worked on as a freelancer.</h4>
 		</div>
-		<a href="missing.html"><button class="button buttonFW">Check it out!</button></a>
+		<a href="freelance.html"><button class="button buttonFW">Check it out!</button></a>
 	</div>
 	
 	<div class="bannerUW">
@@ -60,7 +60,7 @@
 		<h3>University Work</h3>
 		<h4>A collection of projects I worked on during my studies at Abertay University.</h4>
 		</div>
-		<a href="missing.html"><button class="button buttonUW">Check it out!</button></a>
+		<a href="uniprojects.html"><button class="button buttonUW">Check it out!</button></a>
 	</div>
 	
 	<hr>
@@ -92,7 +92,7 @@
 	<h3>Good job! Here you can enjoy the:</h3>
 	<h2>Bonus Features!</h2>
 	<a href="missing.html"><button class="button buttonN2">Misc.</button></a>
-	<a href="missing.html"><button class="button buttonN2">Show me something random!</button></a>
+	<a href="mystery.html"><button class="button buttonN2">Show me something random!</button></a>
 	<hr>
 	
 	<p>Page background by https://deep-6-genetics-lab.tumblr.com/</p>
