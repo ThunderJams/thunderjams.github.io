@@ -12,12 +12,19 @@
 
 <body>
  <a href="index.html" class="logo">
-<div class="header">
+<div class="header" id="grad1">
+
   <h1 class="logo">Ewan J. Fisher</h1>
+  
+    	<h3>Freelance Game Developer and 3D Platformer Nerd</h3>
+		<div class="header-right">
+		<a href="index.html"><button class="button buttonN">Projects Hub</button></a>
+<a href="about.html"><button class="button buttonN">About</button></a>
 
-            <h3>Freelance Game Developer and Person with Hands</h3>
-
-</div>
+<a href="blog.html"><button class="button buttonN">Blog</button></a>
+	<a href="https://docs.google.com/document/d/1uWDHYkmUhAIvZXIl_1E0ilI6wrWB_9rwxaxe8pR_ml8/edit?usp=sharing"><button class="button buttonN">CV</button></a>
+	<a href="mailto:ewanjamsf@gmail.com"><button class="button buttonN">Contact</button></a>
+</div></div>
 </a>
 
 
@@ -37,7 +44,7 @@
 <div class="bodymain">
 <h3>Summary</h3>
 <h4>The research question for this project was 'How can procedural techniques be used to generate enjoyable levels for a 3D platformer?' Answering this led to me creating a game that generates new levels every time you play. Here's a gameplay video - the project can be downloaded on itch!</h4>
-<a href="https://thunderjams.itch.io/honours-project"><button class="button buttonN2">Itch Page</button></a>
+<a href="https://thunderjams.itch.io/honours-project"><button class="button buttonN2">Itch Page</button></a><br>
  <iframe width="420" height="315"
 src="https://www.youtube.com/embed/LHlmfHEMWKM?autoplay=1&mute=1">
 </iframe> 
@@ -51,7 +58,7 @@ src="https://www.youtube.com/embed/LHlmfHEMWKM?autoplay=1&mute=1">
 
 
 <h4>The project uses Perlin worms to generate levels - extrapolating a list of points from the positions the worm travels through, building a spline from it, and decorating said spline with obstacles. I'll spare you of the details here, but it's all in my dissertation, available here!</h4>
- <a href="https://www.ewanjams.com/_files/ugd/700df5_0cd5d9c85be249b995a4a4d002010a26.pdf"><button class="button buttonN2">Dissertation</button>
+ <a href="https://www.ewanjams.com/_files/ugd/700df5_0cd5d9c85be249b995a4a4d002010a26.pdf"><button class="button buttonN2">Dissertation</button></a>
 
 <br>
         <hr>
