@@ -13,7 +13,6 @@ ul {
 
 /* Header/Logo Title */
 #grad1 {
-  height: 200px;
   background-color: #FBD98B; /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);
 }
@@ -128,15 +127,18 @@ a {
 
 
 @media screen and (max-width: 500px) {
-  .header a {
+ 
+	.header a {
     float: none;
-    display: block;
-    text-align: left;
+
   }
   
   .header-right {
     float: none;
   }
+	
+
+  
   
   .bannerFH {
     float: none;

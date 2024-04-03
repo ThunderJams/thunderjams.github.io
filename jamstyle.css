@@ -127,15 +127,11 @@ a {
 
 
 @media screen and (max-width: 500px) {
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
+ 
+	
+	
+
   
-  .header-right {
-    float: none;
-  }
   
   .bannerFH {
     float: none;
@@ -173,7 +169,14 @@ a {
 }
 
 @media screen and (max-width: 1200px) {
+.header a {
+    float: none;
 
+  }
+  
+  .header-right {
+    float: none;
+  }
   
   .bodymain {
 	padding:20px;
