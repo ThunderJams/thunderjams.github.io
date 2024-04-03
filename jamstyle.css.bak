@@ -98,9 +98,9 @@ ul {
  border: 4px solid black
 }
 
-.bannerHP {
+.bannerMR {
   overflow: hidden;
-  background-color: slategray;
+  background-color: gold;
   padding: 20px 10px;
   background-image: url('/images/banners/MR.PNG');
  border: 4px solid black

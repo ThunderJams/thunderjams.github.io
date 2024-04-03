@@ -42,23 +42,63 @@
 <h3 id="Music">Music</h3>
 <h4>I've been playing music since I was a kid - forced by school, took piano lessons, self-taught guitar, the classic story. One thing that held me back from composing is that I couldn't make what I wanted to - so I devalued what I could make. </h4>
 <h4>But based on some advice from musician extrordinaire Calum Sarjeant (linked below) - I've just been setting out with the desire to create something, anything - and seeing where I can go from there. That's what I'm chronicling here!</h4>
+<h4>magma up my ass:</h4>
+ <audio controls>
+  <source src="/media/magma_up_my_ass-1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+ 
+ <h4>submerged wonderground:</h4>
+ <audio controls>
+  <source src="/media/submerged_wonderground.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 <h4>the minute after midnight:</h4>
  <audio controls>
   <source src="/media/the_minute_after_midnight.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
- 
 <br> <a href="https://calumsarjeant.itch.io/"><button class="button buttonN2">Calum's Itch</button></a>
 <br> <a href="https://soundcloud.com/greenlizard307"><button class="button buttonN2">Calum's Soundcloud</button></a>
 <br>
 
-<h3 id="BF">Bar Fight Cleaner</h3>
-<h4>Ever wanted to start a bar fight? How about clean up a bar fight? …Less cool? Maybe, but that's a regular Tuesday experience at this bar.</h4>
-<h4>For GMTK Jam 2023, the theme was Roles Reversed - so we play the role of the lowly bartender keeping the bar afloat during the bar fight, trying to avoid the health inspector. This game would not have come together without the amazingly talented Cypri and her limitless Godot knowledge hard carrying the game to the finish line. I’ve grown much in Godot knowledge since - but my Spaghetti Thursday quality puns remain the same.</h4>
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/orWPrRgxd_U?autoplay=1&mute=1">
-</iframe> <br>
- <a href="https://cyps.itch.io/bar-fight-cleaner"><button class="button buttonN2">Check it out!</button></a>
+<h3 id="2Dart">2D Artwork</h3>
+<h4>When I started at uni, I made a promise that I would try and draw something, every month, to see the improvement process. I kept this up for all of 2020, and whilst I did less in following years, I still try and keep it up.</h4>
+<div class="gallery">
+  <a target="_blank" href="/images/art/edindies.png">
+    <img src="edindies.png" alt="Art of a laptop with stickers on it, spelling the word ED, and a plug extension with many plugs spelling out the word indies" width="600" height="400">
+  </a>
+  <div class="desc">Art I drew whilst at Edindies, a game dev meetup in Edinburgh. (23/03/2024)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/images/art/streelight.png">
+    <img src="/images/art/streelight.png" alt="Art of a mysterious figure standing under a streetlamp" width="600" height="400">
+  </a>
+  <div class="desc">streetlight (21/12/2023)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/images/art/dundonian_moons.png">
+    <img src="/images/art/dundonian_moons.jpg" alt="art of the dundee skyline with two moons" width="600" height="400">
+  </a>
+  <div class="desc">Dundonian Moons (21/12/2023)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/images/art/spirit.jpg">
+    <img src="/images/art/spirit.jpg" alt="Art of Mismagius from Pokémon Diamond and Pearl" width="600" height="400">
+  </a>
+  <div class="desc">Wandering Spirit Haunting the Lost Tower (31/10/2020)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/images/art/star_light.jpg">
+    <img src="/images/art/star_light.jpg" alt="Art of Sonic the Heghehog looking up at Star Light Zone" width="600" height="400">
+  </a>
+  <div class="desc">Gazing Under the Star Light (03/08/2020)</div>
+</div>
 
 <br>
 
