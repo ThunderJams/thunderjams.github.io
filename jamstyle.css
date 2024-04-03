@@ -6,6 +6,11 @@ body {
   background-image: url('/images/carpetBackgroundBlur.png');
 }
 
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
 /* Header/Logo Title */
 
 .header {
@@ -181,6 +186,12 @@ border: 4px solid black
 }
 }
 
+.perma-img {
+	visibility:visible;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
 
 
 /* Page Content */
