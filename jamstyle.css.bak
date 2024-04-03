@@ -12,16 +12,22 @@ ul {
 }
 
 /* Header/Logo Title */
+#grad1 {
+  height: 200px;
+  background-color: #FBD98B; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);
+}
 
 .header {
   overflow: hidden;
-  background-color: black;
+  
   padding: 20px 10px;
+  background-color: black;
 }
 
 .header a {
   float: left;
-  color: white;
+  color: black;
   text-align: center;
   padding: 12px;
   text-decoration: none;
