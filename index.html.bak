@@ -13,20 +13,25 @@
 <body>
  <a href="index.html" class="logo">
 <div class="header">
+
   <h1 class="logo">Ewan J. Fisher</h1>
   
     	<h3>Freelance Game Developer and Person with Hands</h3>
-  
-</div>
-</a>
-
-<div class="content">
-	<h3>Award winning independent game developer, freelancer, writer. Looking for the whimsical, creative, and unknown in every little thing I find and make.</h3>
-	<h3>Everything anyone would ever need can be found below!</h3>
-	<h3>Contact me at: <a href="mailto:ewanjamsf@gmail.com">ewanjamsf@gmail.com</a></h3>
-	<a href="about.html"><button class="button buttonN">About</button></a>
+		<div class="header-right">
+<a href="about.html"><button class="button buttonN">About</button></a>
+<a href="index.html"><button class="button buttonN">Projects Hub</button></a>
+<a href="missing.html"><button class="button buttonN">Blog</button></a>
 	<a href="https://docs.google.com/document/d/1uWDHYkmUhAIvZXIl_1E0ilI6wrWB_9rwxaxe8pR_ml8/edit?usp=sharing"><button class="button buttonN">CV</button></a>
 	<a href="mailto:ewanjamsf@gmail.com"><button class="button buttonN">Contact</button></a>
+</div></div>
+</a>
+
+<div class="content"><div class="bodymain">
+	<h3>Award winning independent game developer, freelancer, writer. Looking for the whimsical, creative, and unknown in every little thing I find and make.</h3>
+	<h3>Everything anyone would ever need can be found below!</h3>
+	<h3>Contact: ewanjamsf@gmail.com<h3>
+	</div>
+	<br>
 	<hr>
 	<h2>Major Work!</h2>
 	
@@ -66,17 +71,17 @@
 	<hr>
 	
 	<h3>Game Jams - 2024</h3>
-	<a href="missing.html"><button class="button buttonCT">Clown Therapy</button></a>
+	<a href="gamejams.html#CT"><button class="button buttonCT">Clown Therapy</button></a>
 	
 	<h3>Game Jams - 2023</h3>
-	<a href="missing.html"><button class="button buttonCAT">Tower of Catasrophe</button></a>
-	<a href="missing.html"><button class="button buttonBF">Bar Fight Cleaner</button></a>
-	<a href="missing.html"><button class="button buttonRH">Rhythm Henry</button></a>
-	<a href="missing.html"><button class="button buttonMR">Mushroomba</button></a>
+	<a href="gamejams.html#CAT"><button class="button buttonCAT">Tower of Catasrophe</button></a>
+	<a href="gamejams.html#BF"><button class="button buttonBF">Bar Fight Cleaner</button></a>
+	<a href="gamejams.html#RH"><button class="button buttonRH">Rhythm Henry</button></a>
+	<a href="gamejams.html#MR"><button class="button buttonMR">Mushroomba</button></a>
 	
 	<h3>Game Jams - Before 2022</h3>
-	<a href="missing.html"><button class="button buttonRR">There's a Rat in My Robot!</button></a>
-	<a href="missing.html"><button class="button buttonGG">Gumball Galaxy</button></a>
+	<a href="gamejams.html#RR"><button class="button buttonRR">There's a Rat in My Robot!</button></a>
+	<a href="gamejams.html#GG"><button class="button buttonGG">Gumball Galaxy</button></a>
 	<hr>
 	
 	<h3>Other places I can be discovered!</h3>
