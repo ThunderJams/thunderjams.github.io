@@ -33,21 +33,23 @@
 <br>
 <div class="bodymain">
 <h2>Miscellaneous</h2>
-<h4>I am, at heart, a generalist. I want to do everything - I feel empowered by the creative process when I see all sides of it - designing what I implement, sketching worlds and molding them with my bare hands. I am not a master of all, by any means - but I want to highlight every little thing that I do here in order to actualise it. </h4>
+<h4>I am, at heart, a generalist. I want to do everything - I feel empowered by the creative process when I see all sides of it - designing what I implement, sketching worlds and molding them with my bare hands. I am not a master of all, by any means - but I want to highlight every little thing that I do here in order to actualise it. Progress is slow, and I am easily distracted - but if I want to continue to put whatever I make into the world. Embracing the awkward one-offs, embracing that growth.</h4>
+<h4>This is all entirely self-indulgent, so that's why it's tucked here at the bottom. But on the off chance someone else is reading all of this, let me know! My emails are always open.</h4>
 <h4>"I feel, at any given time, tuggеd in all directions at once. That is, if anything can be thus dеscribed, my defining quality." - the Narcissist Cookbook, STOPPING A GARDEN HOSE WITH YOUR THUMB</h4>
-
-
-
 
 <br>
 
-<h3 id="CAT">Tower of Catastrophe</h3>
-<h4>Created for GitHub's Game Off Jam in November 2023 - I was a programmer for this game jam - mainly working with the UI and helping with game design.</h4>
-<h4>The game went on to be in the top 10 highest rated games of the jam, out of all 630 entries, and was featured in GitHub's blog posts and on their YouTube channel! It was a huge honour to be showcased and huge props to the other creatives on the team.</h4>
+<h3 id="Music">Music</h3>
+<h4>I've been playing music since I was a kid - forced by school, took piano lessons, self-taught guitar, the classic story. One thing that held me back from composing is that I couldn't make what I wanted to - so I devalued what I could make. </h4>
+<h4>But based on some advice from musician extrordinaire Calum Sarjeant (linked below) - I've just been setting out with the desire to create something, anything - and seeing where I can go from there. That's what I'm chronicling here!</h4>
+<h4>the minute after midnight:</h4>
+ <audio controls>
+  <source src="/media/the_minute_after_midnight.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
  
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/vc4D6JNbCao?autoplay=1&mute=1">
-</iframe><br> <a href="https://ayperosia.itch.io/tower-of-catastrophe"><button class="button buttonN2">Check it out!</button></a>
+<br> <a href="https://calumsarjeant.itch.io/"><button class="button buttonN2">Calum's Itch</button></a>
+<br> <a href="https://soundcloud.com/greenlizard307"><button class="button buttonN2">Calum's Soundcloud</button></a>
 <br>
 
 <h3 id="BF">Bar Fight Cleaner</h3>

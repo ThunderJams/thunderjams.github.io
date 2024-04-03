@@ -1,0 +1,45 @@
+{
+    "title": "jams jams by jams",
+    "media": [
+        {
+            "file": "the_minute_after_midnight",
+            "type": "audio",
+            "feature": true,
+            "title": "the minute after midnight"
+        },
+        {
+            "file": "submerged_wonderground",
+            "type": "video",
+            "title": "submerged wonderground"
+        },
+        {
+            "file": "magma_up_my_ass-1",
+            "type": "video",
+            "title": "magma up my ass"
+        }
+    ],
+    "theme": {
+        "titleStyle": "none",
+        "backgroundColor": "#1e1e1e",
+        "primaryColor": "#ffffff",
+        "primaryAltColor": "#838383",
+        "secondaryColor": "#000000",
+        "highlightColor": "#434343",
+        "primaryTextColor": "#ffffff",
+        "primaryAltTextColor": "#838383",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#838383",
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "overlayTextColor": "#ffffff",
+        "overlayBackgroundColor": "#00000080",
+        "hideInfoDropdown": false,
+        "contentWidth": "400",
+        "coverSize": "480",
+        "nativePlayer": false,
+        "customCSS": ""
+    },
+    "description": "",
+    "loopModeDefault": "none"
+}
