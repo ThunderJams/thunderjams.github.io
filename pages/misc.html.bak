@@ -160,7 +160,7 @@ Your browser does not support the audio element.
 <div class="clearfix"></div>
 <br>
 
-<h3 id="RH">3D Artwork</h3>
+<h3 id="3Dart">3D Artwork</h3>
 <h4>As of recent, I've been trying to 3D model using Nomad Sculpt - I've been finding it incredibly relaxing to listen to a podcast and sculpt something early in the morning. So far I've mostly been creating 3D models of For Hexposure characters - but I'm hoping to do some more when I have the time.</h4>
 <div class="responsiveG">
 <div class="gallery">
@@ -180,6 +180,15 @@ Your browser does not support the audio element.
 </div>
 </div>
 
+<div class="responsiveG">
+<div class="gallery">
+  <a target="_blank" href="/images/art/mushroomba.jpg">
+    <img src="/images/art/mushroomba.jpg" alt="Model of Mushroomba from Mushroomba, yellow flatcap mushroom on a little blue cleaning robot" width="600" height="400">
+  </a>
+  <div class="desc">Model of Mushroomba from Mushroomba (29/02/2024)</div>
+</div>
+</div>
+<div class="clearfix"></div>
 <br>
 
 
