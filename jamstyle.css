@@ -3,8 +3,8 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
   text-align: center;
   
-  /* background-image: url('/images/carpetBackgroundBlur.png'); */
-  background-image: url('/images/bowling2.jpg');
+   background-image: url('/images/carpetBackgroundBlur.png'); 
+  /*background-image: url('/images/bowling2.jpg');*/
 }
 
 ul {
