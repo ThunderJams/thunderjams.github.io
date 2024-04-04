@@ -105,8 +105,8 @@ Your browser does not support the audio element.
 
 <div class="responsiveG">
 <div class="gallery">
-  <a target="_blank" href="/images/art/It Felt Fake.jpg">
-    <img src="/images/art/It Felt Fake.jpg" alt="Artwork depicting an astronaut with their eyes reflected in their helmet. There are words adorning the outside of the frame, a quotation of the song It Felt Fake by the Narcissist Cookbook - I looked out at nothing, felt nothing looking back at me" width="600" height="400">
+  <a target="_blank" href="/images/art/It_Felt_Fake.jpg">
+    <img src="/images/art/It_Felt_Fake.jpg" alt="Artwork depicting an astronaut with their eyes reflected in their helmet. There are words adorning the outside of the frame, a quotation of the song It Felt Fake by the Narcissist Cookbook - I looked out at nothing, felt nothing looking back at me" width="600" height="400">
   </a>
   <div class="desc">It Felt Fake (20/10/2022)</div>
 </div>
@@ -160,49 +160,28 @@ Your browser does not support the audio element.
 <div class="clearfix"></div>
 <br>
 
-<h3 id="RH">Rhythm Henry</h3>
-<h4>A collaboration between me and fellow incomprehensible cryptid Henry Neff - Rhythm Henry is a rhythm game based on a true story. We had a collection of professional headshots, a total zero hours of Godot Engine experience - and a dream: this is the result.</h4>
-<h4>It was really good to learn how to use Godot - it's really the best of both worlds. No bloat, but it somehow has everything you need. Super easy to translate over Unity experience to it, love the built-in tweening in particular (you can see I use an abundance of it for squash and stretch).</h4>
-<h4>I think a two person game jam leads to the most perfect chaos - no interference, but enough collaboration and improv to "yes and-" all of your worst/best ideas. I had been very obsessed with Rhythm Heaven at the time, Henry said let's roll with that, and we made this beautiful monstrosity. As much as I joke about it, many people have said they love it, which makes me really happy.</h4>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/0Z2DsKjGgeM?autoplay=1&mute=1">
-</iframe> <br>
- <a href="https://thunderjams.itch.io/rhythm-henry"><button class="button buttonN2">Check it out!</button></a>
+<h3 id="RH">3D Artwork</h3>
+<h4>As of recent, I've been trying to 3D model using Nomad Sculpt - I've been finding it incredibly relaxing to listen to a podcast and sculpt something early in the morning. So far I've mostly been creating 3D models of For Hexposure characters - but I'm hoping to do some more when I have the time.</h4>
+<div class="responsiveG">
+<div class="gallery">
+  <a target="_blank" href="/images/art/forHexposureModels1.jpg">
+    <img src="/images/art/forHexposureModels1.jpg" alt="Models of (from left to right) the Witch, Trash Toad, Abby and Frodger from For Hexposure" width="600" height="400">
+  </a>
+  <div class="desc">Models of (from left to right) the Witch, Trash Toad, Abby and Frodger from For Hexposure (27/02/2024 - 29/02/2024)</div>
+</div>
+</div>
+
+<div class="responsiveG">
+<div class="gallery">
+  <a target="_blank" href="/images/art/forHexposureModels2.jpg">
+    <img src="/images/art/forHexposureModels2.jpg" alt="Models of (from left to right) Strawby, Snigel and Hope from For Hexposure" width="600" height="400">
+  </a>
+  <div class="desc">Models of (from left to right) Strawby, Snigel and Hope from For Hexposure (27/02/2024 - 29/02/2024)</div>
+</div>
+</div>
 
 <br>
 
-<h3 id="MR">Mushroomba</h3>
-<h4>Created for Global Game Jam 2023 with Yellow Crow Games - I was involved with the programming for this project. This involved creating the character controller, collision detection and general systems such as the camera zoom out at the end of the game.</h4>
-<h4>The theme for the Game Jam was Roots and our team immediately became enamoured with the idea of theming the game around mushrooms. We toyed with a couple of different ideas such as a Crypt of the Necrodancer-esque rhythm game, before I was struck with the pun inspiration for Mushroom + Roomba and that stuck immediately.</h4>
-<h4>There's a certain surreality to Mushroomba that I adore - everything is chaotic and nothing is explained. There's a couple of objectives, but really, it's just a little playground for the player to explore in and find their own meaning in. You can try and mashroomise everything - or you can just try and write rude words in the mushroom-y soil. Don't worry, I won't tell.</h4>
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/s-F92MYhB14?autoplay=1&mute=1">
-</iframe> <br>
- <a href="https://yellow-crow.itch.io/mushroomba"><button class="button buttonN2">Check it out!</button></a>
-
-<br>
-
-<h3 id="RR">There's a Rat in my Robot!</h3>
-<h4>I think it's important to embrace when things... don't go well! There's a Rat in my Robot! is the epitome of biting off more than I could chew. After Gumball Galaxy, the same Dream Team went on to make a Nightmare. But if you've made it this far down my portfolio... you're either me - or you are genuinely interested in my work in some way. And I deserve to face my mistakes head on - like a matador. </h4>
-<h4>We kind of ignored this game for so long, it's hugely flawed and mess to play. You either play as a rat, who does very little but has to move batteries around inside the robot, pretty unengaging. Or you play as a robot, and have to do very janky 3D platforming. Or, god forbid you have to play both parts - in which case this becomes the most boring stop and start process of continually having to charge the robot every 5 seconds.</h4> 
-<h4>But, looking back on it, this game actually has a pretty cool concept! You can tell it's the biproduct of a little Ewan who's favourite games console was the Wii U - and a fascination with asymmetric game design. And this game basically ended up becoming the Wii U of my game jam games - the running joke from everyone that's played it.</h4>
-<h4>Even the concept of being a little robot, exploring a big house - little rat in tow - we had this lore that they were escaping from a mad scientist or something? I've always loved huge worlds from tiny perspectives like Pikmin or Chibi-Robo. My honours project ended up being a 3D platformer with a little robot - so clearly this game lives in my mind rent free. </h4>
-<h4>As is my own methodology and perspective in life - I like to embrace my mistakes. I would not be where I am today without stuff like this, and I want the world to see that not everything you make will be a home run. You can attempt to play it below. Keyword attempt. (Or just watch the video, so you can vicariously enjoy my suffering from a comfortable distance).</h4>
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/H7DyRxTSsYI?autoplay=1&mute=1">
-</iframe> <br>
- <a href="https://averyblack.itch.io/theres-a-rat-in-my-robot"><button class="button buttonN2">Check it out?</button></a>
-
-<br>
-
-<h3 id="GG">Gumball Galaxy</h3>
-<h4>This is a physics-based cooperative puzzle game where two players attempt to guide a Gumball to a fuel pipe. I was involved with level design, concepting and certain mechanics implementing - such as the pistons.</h4>
-<h4>This was my first time programming with a group and working in Unity! As such I had to learn how to use GitHub, branches, and general co-operation and time management skills. For a first project is may have been too ambitious and out of scope for 3 first year programmers - but showing it around to everyone as a game I made was an incredibly validating feeling.</h4>
-<h4>The game was created for a jam hosted by Abertay Game Dev Society in 2019. The theme for the jam has Revolutions - hence the idea for all of the swinging and revolving platforms and interlocking mechanics.</h4>
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/s-F92MYhB14?autoplay=1&mute=1">
-</iframe> <br>
- <a href="https://averyblack.itch.io/gumball-galaxy"><button class="button buttonN2">Check it out!</button></a>
 
 <br>
 
