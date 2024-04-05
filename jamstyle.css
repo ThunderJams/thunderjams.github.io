@@ -516,14 +516,14 @@ div.desc {
 	max-width: 100%;
   }
 }
-
+/*
 @media only screen and (max-width: 500px) {
   .responsiveG {
     width: 100%;
 	max-width: 100%;
   }
 }
-
+*/
 .clearfix:after {
   content: "";
   display: table;
