@@ -280,7 +280,7 @@ iframe {
 iframe.audio {
 	width: 420px;
   max-width: 100%;
-  height: 100%;
+  height: 900px;
 }
 
 /* Page Content */
