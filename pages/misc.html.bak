@@ -29,11 +29,7 @@
 
 <div class="content">
 
-<div class="responsiveG">
-<div class="gallery">
-</div>
-</div>
-<div class="clearfix"></div>
+
 
 <br>
 <div class="bodymain">
@@ -48,25 +44,28 @@
 <h3 id="Music">Music</h3>
 <h4>I've been playing music since I was a kid - forced by school, took piano lessons, self-taught guitar, the classic story. One thing that held me back from composing is that I couldn't make what I wanted to - so I devalued what I could make. </h4>
 <h4>But based on some advice from musician extrordinaire Calum Sarjeant (linked below) - I've just been setting out with the desire to create something, anything - and seeing where I can go from there. That's what I'm chronicling here!</h4>
-<h4>"magma up my ass" - wanted to make a fiery counterpart to the previous song, hence the incredibly beautiful and moving name (09/03/2024):</h4></div>
+<h4>magma up my ass (09/03/2024)</h4>
+<h4>wanted to make a fiery counterpart to the submerged wonderground, hence the incredibly beautiful and moving name</h4></div>
  <audio controls>
   <source src="/media/magma_up_my_ass-1.wav" type="audio/wav">
 Your browser does not support the audio element.
-</audio>
+</audio><br>
  
  <div class="bodymain">
- <h4>"submerged wonderground" - just opened garageband and wanted to see what I would make by messing around - I like it! it has 3D Mario water side area vibes (07/03/2024):</h4></div>
+ <h4>submerged wonderground (07/03/2024):</h4>
+ <h4>just opened garageband and wanted to see what I would make by messing around - I like it! it has 3D Mario water side area vibes</h4></div>
  <audio controls>
   <source src="/media/submerged_wonderground.wav" type="audio/wav">
 Your browser does not support the audio element.
-</audio>
+</audio><br>
 
 <div class="bodymain">
-<h4>"the minute after midnight" - made this on LMMS using Calum's usual setup, trying to convince myself to just make something without knowing what the end destination would be (11/04/2023):</h4></div>
+<h4>"the minute after midnight" (11/04/2023)</h4>
+<h4>made this on LMMS using Calum's usual setup, trying to convince myself to just make something without knowing what the end destination would be</h4></div>
  <audio controls>
   <source src="/media/the_minute_after_midnight.wav" type="audio/wav">
 Your browser does not support the audio element.
-</audio>
+</audio><br>
 
 <div class="bodymain">
 <br> <a href="https://calumsarjeant.itch.io/"><button class="button buttonN2">Calum's itch.io</button></a>
@@ -246,9 +245,12 @@ Your browser does not support the audio element.
 <br>
 
 <div class="bodymain">
-<h3 id="3Dart">3D Artwork</h3>
-<h4>As of recent, I've been trying to 3D model using Nomad Sculpt - I've been finding it incredibly relaxing to listen to a podcast and sculpt something early in the morning. So far I've mostly been creating 3D models of For Hexposure characters - but I'm hoping to do some more when I have the time.</h4>
+<h3 id="Web">This very website!</h3>
+<h4>My original portfolio site (which I should be able to link to an archive of here; was made using Wix. Which worked great! But at the start of 2024 they greatly increased their prices and I am only a little guy - so I'm making my own little corner of the web right here. I was really inspired by my friend Ari - she wrote her own portfolio using HTML and so I'm trying to follow in her footsteps and be an amateur web dev (mine definietly isn't as classy as hers though!)</h4>
+<h4>My original portfolio site (which I should be able to link to an archive of here; was made using Wix. Which worked great! But at the start of 2024 they greatly increased their prices and I am only a little guy - so I'm making my own little corner of the web right here. I was really inspired by my friend Ari - she wrote her own portfolio using HTML and so I'm trying to follow in her footsteps and be an amateur web dev (mine definietly isn't as classy as hers though!)</h4>
 <br>
+<a href="https://arimaddison.neocities.org/"><button class="button buttonN2">Ari's Portfolio</button></a>
+<a href="https://www.ewanjams.com/"><button class="button buttonN2">My Old Portfolio</button></a>
 
 
         <hr>
