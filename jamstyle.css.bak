@@ -496,6 +496,10 @@ div.desc {
   background: rgba(0,0,0,0.5);
 }
 
+audio{
+	text-align: center;
+}
+
 * {
   box-sizing: border-box;
 }
