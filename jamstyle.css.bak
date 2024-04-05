@@ -3,8 +3,19 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
   text-align: center;
   
-  /* background-image: url('/images/carpetBackgroundBlur.png'); */
-  background-image: url('/images/bowling2.jpg');
+   background-image: url('/images/carpetBackgroundBlur.png'); 
+   animation: pan 100s infinite;
+  /*background-image: url('/images/bowling2.jpg');*/
+}
+
+@keyframes pan{
+	0% {
+		transform: 0% 0%;
+	}
+	
+	100% {
+		transform: 100% 0%;
+	}
 }
 
 ul {
