@@ -45,7 +45,7 @@
 <h4>I've been playing music since I was a kid - forced by school, took piano lessons, self-taught guitar, the classic story. One thing that held me back from composing is that I couldn't make what I wanted to - so I devalued what I could make. </h4>
 <h4>But based on some advice from musician extrordinaire Calum Sarjeant (linked below) - I've just been setting out with the desire to create something, anything - and seeing where I can go from there. That's what I'm chronicling here!</h4>
 
- <iframe 
+ <iframe class="audio"
 src="/itchplayer/index.html"></iframe>
 
 <br> <a href="https://calumsarjeant.itch.io/"><button class="button buttonN2">Calum's itch.io</button></a>
