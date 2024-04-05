@@ -2,19 +2,22 @@
     "title": "jams jams by jams",
     "media": [
         {
-            "file": "the_minute_after_midnight",
+            "file": "the_minute_after_midnight.wav",
             "type": "audio",
-            "feature": true,
+            "info": "<h4>made this on LMMS using Calum's usual setup, trying to convince \nmyself to just make something without knowing what the end destination \nwould be</h4><p></p>",
             "title": "the minute after midnight"
         },
         {
-            "file": "submerged_wonderground",
-            "type": "video",
+            "file": "submerged_wonderground.wav",
+            "type": "audio",
+            "info": "<h4>just opened garageband and wanted to see what I would make by messing around - I like it! it has 3D Mario water side area vibes</h4><p></p>",
+            "feature": true,
             "title": "submerged wonderground"
         },
         {
-            "file": "magma_up_my_ass-1",
-            "type": "video",
+            "file": "magma_up_my_ass-1.wav",
+            "type": "audio",
+            "info": "<h4>wanted to make a fiery counterpart to the submerged wonderground, hence the incredibly beautiful and moving name</h4><p></p>",
             "title": "magma up my ass"
         }
     ],
