@@ -4,11 +4,11 @@ body {
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
-   animation: pan 20s infinite;
-   -webkit-animation: pan 20s infinite;
-  -moz-animation: pan 20s infinite;
-  -o-animation: pan 20s infinite;
-  -ms-animation: pan 20s infinite;
+   animation: pan 200s infinite;
+   -webkit-animation: pan 200s infinite;
+  -moz-animation: pan 200s infinite;
+  -o-animation: pan 200s infinite;
+  -ms-animation: pan 200s infinite;
   /*background-image: url('/images/bowling2.jpg');*/
 }
 
