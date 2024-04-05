@@ -277,6 +277,11 @@ iframe {
   height: auto;
 }
 
+iframe.audio {
+	width: 420px;
+  max-width: 100%;
+}
+
 /* Page Content */
 .content {
 	padding:30px;
