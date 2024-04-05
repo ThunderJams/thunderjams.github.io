@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
- <title>EwanJams</title>
+ <title>About - EwanJams</title>
  <link rel="icon" type="image/x-icon" href="/images/favicon.png">
  <link rel="stylesheet" href="jamstyle.css">
 </head>
@@ -31,10 +31,22 @@
 
 	
 	<div class="bodytext">
+	<h2>About</h2>
 	<h4>Hi, I'm Ewan! I'm a game designer and programmer, and graduate from BSc (Honours) in Computer Games Applications Development at Abertay University. I have a passion for creating games where whimsicality meets emotion - writing, designing and coding experiences that I find exciting.</h4>
 	<h4>I just recently finished my Honours Project - researching Procedural Content Generation in order to create algorithmically generated 3D Platformer levels.</h4>
 	<h4>During Summer 2022, I worked on For Hexposure with Yellow Crow Games for Abertay's Dare Academy competition - going on to show the game at EGX and win both the whole competition, as well as the Dell Prize!</h4>
 	<h4>In terms of programming - I'm well versed in both C# and C++, and I have experience working in both Unity and Unreal - mainly focused on gameplay programming. In terms of narrative, I'm fluent in Google Docs. More detailed info on my skills can be found here!</h4>
+	
+	<h2>Accolades</h2>
+	<h4><ul>
+	<li>   Exhibitor at EGX London 2022
+	<li>   Winner of Abertay's Dare Academy Grand Prize 2022<br><a href="https://www.abertay.ac.uk/news/2022/yellow-crow-games-announced-as-winner-of-dare-academy-2022/ "><button class="button buttonN2">Read More</button></a> 
+	<li>   Winner of Abertay's Dare Academy Dell Prize 2022 <a href="https://x.com/AbertayDare/status/1582771305291685892?s=20 "><button class="button buttonN2">Read More</button></a> 
+	<li>   Winner of Best Team Project at Gamebridge 2023 <a href="https://gamebridge.uk/2023-festival/ "><button class="button buttonN2">Read More</button></a>
+	
+
+	</ul></h4>
+	
 	<IMG SRC="/images/me.png" width="600" height="400" class="perma-img"/>
 	
 	<hr>
