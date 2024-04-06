@@ -5,7 +5,8 @@ body {
   font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
   text-align: center;
   
-   background-image: url('/images/carpetBackgroundBlur.png'); 
+   /*background-image: url('/images/carpetBackgroundBlur.png'); */
+   background-image: url('/images/CAtexture2.jpg'); 
    animation: pan 500s infinite;
    -webkit-animation: pan 500s infinite;
   -moz-animation: pan 500s infinite;
@@ -120,7 +121,8 @@ ul {
   background-color: #FBD98B; /* For browsers that do not support gradients */
   /*background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);*/
   /*background-image: linear-gradient(to bottom right, #3872CA, #d9ed02);*/
-  background-image: url('/background.jpg');
+  /*background-image: url('/background.jpg');*/
+  background-image: url('/images/CAtexture1.jpg'); 
   border-radius: 12px;
 }
 
