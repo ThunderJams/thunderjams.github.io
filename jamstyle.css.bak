@@ -32,6 +32,13 @@ body {
 	src: url('/font/Lambda-Regular.woff2') format('woff2'), url('/font/Lambda-Regular.woff') format('woff'), url('/font/Lambda-Regular.ttf') format('truetype');
 }
 
+@font-face {
+	font-family: 'Cottonie';
+	font-weight: 400;
+	font-style: normal;
+	src: url('/font/Cottonie.ttf') format('truetype'), url("/font/Cottonie.otf") format("opentype");
+}
+
 
 
 h1{
@@ -360,6 +367,7 @@ iframe.audio {
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 12px;
+  font-family: 'Lambda Web', 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
 }
 
 .button:hover{
