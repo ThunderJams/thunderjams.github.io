@@ -118,9 +118,9 @@ ul {
 /* Header/Logo Title */
 #grad1 {
   background-color: #FBD98B; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);
+  /*background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);*/
   /*background-image: linear-gradient(to bottom right, #3872CA, #d9ed02);*/
-  
+  background-image: url('/background.jpg')
   border-radius: 12px;
 }
 
