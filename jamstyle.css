@@ -6,13 +6,15 @@ body {
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
-   animation: pan calc(100vh / 5)s infinite;
-   -webkit-animation: pan calc(100vh / 5)s infinite;
-  -moz-animation: pan calc(100vh / 5)s infinite;
-  -o-animation: pan calc(100vh / 5)s infinite;
-  -ms-animation: pan calc(100vh / 5)s infinite;
+   animation: pan 500s infinite;
+   -webkit-animation: pan 500s infinite;
+  -moz-animation: pan 500s infinite;
+  -o-animation: pan 500s infinite;
+  -ms-animation: pan 500s infinite;
   
-  /*background-image: url('/images/bowling2.jpg');*/
+  /*background-image: url('/images/bowling2.jpg');
+  calc(100vh / 5)
+  */
 }
 
 
@@ -379,6 +381,9 @@ iframe.audio {
   cursor: pointer;
   border-radius: 12px;
   font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
+  border-top: 17.6px solid;
+	border-right: 20.6px solid;
+	border-bottom: 17.6px solid;
 }
 
 .button:hover{
