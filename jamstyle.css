@@ -119,6 +119,7 @@ ul {
 #grad1 {
   background-color: #FBD98B; /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);
+  border-radius: 12px;
 }
 
 .header {
