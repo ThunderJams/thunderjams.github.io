@@ -18,7 +18,7 @@ h1{
 
 @font-face {
   font-family: headerFont;
-  src: url(/font/SnesItalic-1G9Be.tff);
+  src: url('/font/SnesItalic-1G9Be.tff');
 }
 
 

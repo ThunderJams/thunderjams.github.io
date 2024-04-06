@@ -12,14 +12,16 @@ body {
   /*background-image: url('/images/bowling2.jpg');*/
 }
 
-h1{
-	font-family: headerFont, 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
-}
-
 @font-face {
   font-family: headerFont;
   src: url('/font/SnesItalic-1G9Be.tff');
 }
+
+h1{
+	font-family: headerFont, 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+
 
 
 @keyframes pan{
