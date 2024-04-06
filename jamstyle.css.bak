@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap')
+
 body {
   background-color: gray;
   font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
@@ -11,6 +13,8 @@ body {
   -ms-animation: pan 500s infinite;
   /*background-image: url('/images/bowling2.jpg');*/
 }
+
+
 
 @font-face {
   font-family: 'SNES';
@@ -367,7 +371,7 @@ iframe.audio {
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 12px;
-  font-family: 'Lambda Web', 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
+  font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
 }
 
 .button:hover{

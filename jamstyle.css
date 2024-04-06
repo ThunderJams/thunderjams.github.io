@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap')
+
 body {
   background-color: gray;
   font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
@@ -11,6 +13,9 @@ body {
   -ms-animation: pan 500s infinite;
   /*background-image: url('/images/bowling2.jpg');*/
 }
+
+
+
 
 @font-face {
   font-family: 'SNES';
@@ -42,7 +47,7 @@ body {
 
 
 h1{
-	font-family: 'Cottonie', 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
+	font-family: 'Jost', 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
 
 
