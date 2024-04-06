@@ -1,6 +1,6 @@
 body {
   background-color: gray;
-  font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
+  font-family: 'Lambda Web', 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
@@ -23,6 +23,13 @@ body {
 	font-weight: 400;
 	font-style: normal;
 	src: url('/font/diffusion/woff2/diffusion-regular.woff2') format('woff2'), url('/font/diffusion/woff/diffusion-regular.woff') format('woff'), url('/font/diffusion/ttf/diffusion-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Lambda Web';
+	font-weight: 400;
+	font-style: normal;
+	src: url('/font/Lambda-Regular.woff2') format('woff2'), url('/font/Lambda-Regular.woff') format('woff'), url('/font/Lambda-Regular.ttf') format('truetype');
 }
 
 
@@ -353,6 +360,7 @@ iframe.audio {
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 12px;
+  font-family: 'Lambda Web', 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
 }
 
 .button:hover{
