@@ -1,6 +1,6 @@
 body {
   background-color: gray;
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
@@ -10,6 +10,10 @@ body {
   -o-animation: pan 500s infinite;
   -ms-animation: pan 500s infinite;
   /*background-image: url('/images/bowling2.jpg');*/
+}
+
+h1{
+	font-family: 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
 
 @keyframes pan{
@@ -114,12 +118,12 @@ ul {
 .banner-text {
 	padding:20px;
 	text-align: left;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.7);
 }
 
 .bodymain {
 	padding:20px;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.7);
 	float: left;
 	margin-right:200px;
 	margin-left:200px;

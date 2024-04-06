@@ -1,6 +1,6 @@
 body {
   background-color: gray;
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
@@ -10,6 +10,10 @@ body {
   -o-animation: pan 500s infinite;
   -ms-animation: pan 500s infinite;
   /*background-image: url('/images/bowling2.jpg');*/
+}
+
+h1{
+	font-family: 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
 
 @keyframes pan{
@@ -280,7 +284,7 @@ iframe {
 iframe.audio {
 	width: 420px;
   max-width: 100%;
-  height: 900px;
+  height: 850px;
 }
 
 /* Page Content */
