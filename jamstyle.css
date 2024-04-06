@@ -1,6 +1,6 @@
 body {
   background-color: gray;
-  font-family: 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
+  font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
@@ -13,12 +13,22 @@ body {
 }
 
 @font-face {
-  font-family: headerFont;
-  src: url('/font/Kaph-Italic.woff');
+  font-family: 'SNES';
+  src: url('/font/SnesItalic-1G9Be.ttf') format('truetype');
 }
 
+
+@font-face {
+	font-family: 'Diffusion Web';
+	font-weight: 400;
+	font-style: normal;
+	src: url('/font/diffusion/woff2/diffusion-regular.woff2') format('woff2'), url('/font/diffusion/woff/diffusion-regular.woff') format('woff'), url('/font/diffusion/ttf/diffusion-regular.ttf') format('truetype');
+}
+
+
+
 h1{
-	font-family: headerFont, 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
+	font-family: 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
 
 
