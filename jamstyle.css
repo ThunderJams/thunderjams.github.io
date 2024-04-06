@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap')
+
 
 body {
   background-color: gray;
@@ -20,6 +20,11 @@ body {
 @font-face {
   font-family: 'SNES';
   src: url('/font/SnesItalic-1G9Be.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Jost-SemiBold';
+  src: url('/font/Jost-SemiBold.ttf') format('truetype');
 }
 
 
@@ -47,7 +52,7 @@ body {
 
 
 h1{
-	font-family: 'Jost', 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
+	font-family: 'Jost-SemiBold', 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
 
 
