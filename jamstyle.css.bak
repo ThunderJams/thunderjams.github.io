@@ -13,8 +13,14 @@ body {
 }
 
 h1{
-	font-family: 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
+	font-family: headerFont, 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
+
+@font-face {
+  font-family: headerFont;
+  src: url(/font/SnesItalic-1G9Be.tff);
+}
+
 
 @keyframes pan{
 	0% {
@@ -118,12 +124,12 @@ ul {
 .banner-text {
 	padding:20px;
 	text-align: left;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.7);
 }
 
 .bodymain {
 	padding:20px;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.7);
 	float: left;
 	margin-right:200px;
 	margin-left:200px;

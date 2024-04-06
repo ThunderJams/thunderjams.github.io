@@ -13,8 +13,14 @@ body {
 }
 
 h1{
-	font-family: 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
+	font-family: headerFont, 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
+
+@font-face {
+  font-family: headerFont;
+  src: url('/font/SnesItalic-1G9Be.tff');
+}
+
 
 @keyframes pan{
 	0% {
