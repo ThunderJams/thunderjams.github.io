@@ -1,6 +1,6 @@
 body {
   background-color: gray;
-  font-family: 'Lambda Web', 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
+  font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
@@ -367,7 +367,7 @@ iframe.audio {
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 12px;
-  font-family: 'Lambda Web', 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
+  font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
 }
 
 .button:hover{

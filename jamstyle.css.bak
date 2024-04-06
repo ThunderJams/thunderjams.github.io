@@ -1,6 +1,6 @@
 body {
   background-color: gray;
-  font-family: 'Lambda Web', 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
+  font-family: 'Diffusion Web', 'Overlock', 'Montserrat', 'Andalé Mono', 'Trebuchet MS', sans-serif;
   text-align: center;
   
    background-image: url('/images/carpetBackgroundBlur.png'); 
@@ -42,7 +42,7 @@ body {
 
 
 h1{
-	font-family: 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
+	font-family: 'Cottonie', 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
 }
 
 
