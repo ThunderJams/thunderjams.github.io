@@ -4,12 +4,12 @@
 
   <h1 class="logo">Ewan J. Fisher</h1>
   
-    	<h3>Freelance Game Developer</h3>
+    	<h3>Freelance Game Developer and Stop-Motion Emotional Rock</h3>
 		<div class="header-right">
-		<a href="index.html"><button class="button buttonN">Projects Hub</button></a>
-<a href="about.html"><button class="button buttonN">About</button></a>
+		<a href="/index.html"><button class="button buttonN">Projects Hub</button></a>
+<a href="/about.html"><button class="button buttonN">About</button></a>
 
-<a href="blog.html"><button class="button buttonN">Blog</button></a>
+<a href="/blog.html"><button class="button buttonN">Blog</button></a>
 	<a href="https://docs.google.com/document/d/1uWDHYkmUhAIvZXIl_1E0ilI6wrWB_9rwxaxe8pR_ml8/edit?usp=sharing"><button class="button buttonN">CV</button></a>
 	<a href="mailto:ewanjamsf@gmail.com"><button class="button buttonN">Contact</button></a>
 </div></div>
