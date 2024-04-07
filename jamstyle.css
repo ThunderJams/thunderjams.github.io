@@ -124,6 +124,11 @@ ul {
   /*background-image: url('/background.jpg');*/
   background-image: url('/images/CAtexture1.jpg'); 
   border-radius: 12px;
+  border: 12px solid black
+}
+
+a{
+	color: white;
 }
 
 .header {
