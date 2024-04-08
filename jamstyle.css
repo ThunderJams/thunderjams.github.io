@@ -57,7 +57,7 @@ body {
 
 h1{
 	font-family: 'Jost-SemiBold', 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
-	font-size: 30px;
+	font-size: 0.9em; /* 14px/16=0.875em */
 }
 
 
