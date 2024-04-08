@@ -7,12 +7,12 @@
   <!--  Essential META Tags -->
 <meta property="og:title" content="Talking at AGDS (and other updates) - EwanJams">
 <meta property="og:type" content="article" />
-<meta property="og:image" content="\images\banners\FH.png">
+<meta property="og:image" content="https://thunderjams.github.io/pages/blog/AGDS/images/image1.jpg">
 <meta property="og:url" content="https://thunderjams.github.io/pages/blog/AGDS/AGDS.html">
 <meta name="twitter:card" content="summary_large_image">
 
 <!--  Non-Essential, But Recommended -->
-<meta property="og:description" content="Freelance Game Developer Portfolio">
+<meta property="og:description" content="So famous! So Jams! So updating my website for the first time in almost a year!">
 <meta property="og:site_name" content="EwanJams">
 <meta name="twitter:image:alt" content="Banner of characters from the game For Hexposure">
 
