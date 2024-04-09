@@ -174,7 +174,7 @@ a{
 .banner-text {
 	padding:20px;
 	text-align: left;
-	background: rgba(0,0,0,0.7);
+	background: rgba(0,0,0,0.4);
 }
 
 .bodymain {
@@ -287,7 +287,7 @@ a {
   
   .bodymain {
 	padding:20px;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.7);
 	float: left;
 	margin-right:0px;
 	margin-left:0px;
@@ -308,7 +308,7 @@ a {
   
   .bodymain {
 	padding:20px;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.7);
 	float: left;
 	margin-right:0px;
 	margin-left:0px;
