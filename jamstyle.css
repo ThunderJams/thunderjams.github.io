@@ -184,9 +184,10 @@ a{
 .bodymain {
 	padding:20px;
 	background: rgba(0,0,0,0.7);
-	
-	margin-right:200px;
-	margin-left:200px;
+	margin-left: 15%;
+	margin-right: 15%;
+	/*margin-right:200px;
+	margin-left:200px;*/
 }
 
 .bodytext {
@@ -297,9 +298,9 @@ a {
   .bodymain {
 	padding:20px;
 	background: rgba(0,0,0,0.7);
-	float: left;
-	margin-right:0px;
-	margin-left:0px;
+  float: left;
+	margin-right:0%;
+	margin-left:0%;
 }
 
 
@@ -319,8 +320,8 @@ a {
 	padding:20px;
 	background: rgba(0,0,0,0.7);
 	float: left;
-	margin-right:0px;
-	margin-left:0px;
+	margin-right:5%;
+	margin-left:5%;
 }
 
 .responsive {
