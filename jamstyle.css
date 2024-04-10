@@ -7,6 +7,9 @@ body {
   
    /*background-image: url('/images/carpetBackgroundBlur.png'); */
    background-image: url('/images/CAtexture3.jpg'); 
+    background-size: cover;
+    
+   /*background-image: url('/images/loopable.png'); */
    animation: pan 500s infinite;
    -webkit-animation: pan 500s infinite;
   -moz-animation: pan 500s infinite;
@@ -123,7 +126,8 @@ ul {
   /*background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);*/
   /*background-image: linear-gradient(to bottom right, #3872CA, #d9ed02);*/
   /*background-image: url('/background.jpg');*/
-  background-image: url('/images/CAtexture1.jpg'); 
+  background-image: url('/images/CAtexture2.jpg'); 
+  background-size: cover;
   border-radius: 12px;
   border: 6px groove black
 }
@@ -202,7 +206,8 @@ a{
   background-color: purple;
   padding: 20px 10px;
   background-image: url('/images/banners/FH.png');
-  border: 4px solid black
+  border: 4px solid black;
+  background-size: cover;
 }
 
 .bannerHP {
@@ -210,7 +215,8 @@ a{
   background-color: slategray;
   padding: 20px 10px;
   background-image: url('/images/banners/HP.PNG');
- border: 4px solid black
+ border: 4px solid black;
+ background-size: cover;
 }
 
 .bannerMR {
@@ -218,7 +224,8 @@ a{
   background-color: gold;
   padding: 20px 10px;
   background-image: url('/images/banners/MR.PNG');
- border: 4px solid black
+ border: 4px solid black;
+ background-size: cover;
 }
 
 .bannerFW {
@@ -226,7 +233,8 @@ a{
   background-color: MediumSeaGreen;
   padding: 20px 10px;
   background-image: url('/images/banners/FW.PNG');
-border: 4px solid black
+border: 4px solid black;
+background-size: cover;
 }
 
 .bannerUW {
@@ -234,7 +242,8 @@ border: 4px solid black
   background-color: MediumSlateBlue;
   padding: 20px 10px;
   background-image: url('/images/banners/UW.png');
-border: 4px solid black
+border: 4px solid black;
+background-size: cover;
   
 }
 
