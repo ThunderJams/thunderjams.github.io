@@ -21,6 +21,13 @@ body {
   */
 }
 
+.filterDiv {
+  display: none;
+}
+
+.show {
+  display: block;
+}
 
 
 
@@ -70,19 +77,26 @@ h1{
 	0% {
     background-position: 0% 0%;
   }
-  100% {
+  50% {
     background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
   }
   
 }
 
 @-ms-keyframes pan{
-		0% {
+  0% {
     background-position: 0% 0%;
   }
-  100% {
+  50% {
     background-position: 100% 100%;
   }
+  100% {
+    background-position: 0% 0%;
+  }
+  
   
 }
 
@@ -90,29 +104,40 @@ h1{
 	0% {
     background-position: 0% 0%;
   }
-
-  100% {
+  50% {
     background-position: 100% 100%;
   }
+  100% {
+    background-position: 0% 0%;
+  }
+  
 }
 
 @-webkit-keyframes pan{
 
- 	0% {
+  0% {
     background-position: 0% 0%;
   }
-  100% {
+  50% {
     background-position: 100% 100%;
   }
+  100% {
+    background-position: 0% 0%;
+  }
+  
 }
 
 @-moz-keyframes pan{
 	0% {
     background-position: 0% 0%;
   }
-  100% {
+  50% {
     background-position: 100% 100%;
   }
+  100% {
+    background-position: 0% 0%;
+  }
+  
 }
 
 ul {
@@ -557,6 +582,22 @@ iframe.audio {
 
 .buttonN2:hover {
   background-color: MediumOrchid;
+  color: white;
+}
+
+.buttonN3 {
+  background-color: white; 
+
+  border: 4px solid rgb(9, 124, 190);
+}
+
+.buttonN3:hover {
+  background-color: rgb(9, 124, 190);;
+  color: white;
+}
+
+.buttonN3.active {
+  background-color: rgb(9, 124, 190);
   color: white;
 }
 

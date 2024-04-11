@@ -2,6 +2,53 @@
 <html>
 
 <head>
+	<script>
+
+		function filterSelection(c) {
+		  var x, i;
+		  x = document.getElementsByClassName("filterDiv");
+		  if (c == "all") c = "";
+		  for (i = 0; i < x.length; i++) {
+			w3RemoveClass(x[i], "show");
+			if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+		  }
+
+		  // Add active class to the current button (highlight it)
+		var btnContainer = document.getElementById("myBtnContainer");
+		var btns = btnContainer.getElementsByClassName("buttonN3");
+		for (var i = 0; i < btns.length; i++) {
+		  btns[i].addEventListener("click", function(){
+			var current = document.getElementsByClassName("active");
+			current[0].className = current[0].className.replace(" active", "");
+			this.className += " active";
+		  });
+		}
+		}
+		
+		function w3AddClass(element, name) {
+		  var i, arr1, arr2;
+		  arr1 = element.className.split(" ");
+		  arr2 = name.split(" ");
+		  for (i = 0; i < arr2.length; i++) {
+			if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+		  }
+		}
+		
+		function w3RemoveClass(element, name) {
+		  var i, arr1, arr2;
+		  arr1 = element.className.split(" ");
+		  arr2 = name.split(" ");
+		  for (i = 0; i < arr2.length; i++) {
+			while (arr1.indexOf(arr2[i]) > -1) {
+			  arr1.splice(arr1.indexOf(arr2[i]), 1);     
+			}
+		  }
+		  element.className = arr1.join(" ");
+		}
+		
+		
+	</script>
+	
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -10,7 +57,7 @@
  <link rel="stylesheet" href="jamstyle.css">
 </head>
 
-<body>
+<body onload="filterSelection('all');">
 <a href="index.html" class="logo">
 <div class="header" id="grad1">
 
@@ -32,12 +79,19 @@
 	
 	<div class="bodytext">
 	<h2>Blog</h2>
-	<h4>Currently I'm still in the process of porting over my blog posts and other writing to this new website - so in the meantime here's an archive of the stuff.</h4>
+	<div id="myBtnContainer">
+		<button class="button buttonN3 active" onclick="filterSelection('all');"> Show All</button>
+		<button class="button buttonN3" onclick="filterSelection('games');"> Games</button>
+		<button class="button buttonN3" onclick="filterSelection('updates');"> Updates</button>
+		<button class="button buttonN3" onclick="filterSelection('misc');"> Misc</button>
+	  </div>
+	<h4></h4>
 	<hr>
-	<a href="/pages/blog/AGDS/AGDS.html"><button class="button buttonN2">06/04/2024 - Talking at AGDS (and other updates)</button></a>
-	<a href="/pages/blog/Melatonin/Melatonin.html"><button class="button buttonN2">25/03/2023 - Melatonin - zen, theraputic and ominous</button></a>
-	<a href="/pages/blog/SM64/SM64.html"><button class="button buttonN2">20/03/2023 - Analysing the Level Design of Super Mario 64</button></a>
-	<a href="/pages/blog/Marcel/Marcel.html"><button class="button buttonN2">18/03/2023 - Marcel the Shell with Shoes On</button></a>
+
+	<div class="filterDiv updates games"><a href="/pages/blog/AGDS/AGDS.html"><button class="button buttonN2">06/04/2024 - Talking at AGDS (and other updates)</button></a></div>
+	<div class="filterDiv games"><a href="/pages/blog/Melatonin/Melatonin.html"><button class="button buttonN2">25/03/2023 - Melatonin - zen, theraputic and ominous</button></a></div>
+	<div class="filterDiv games"><a href="/pages/blog/SM64/SM64.html"><button class="button buttonN2">20/03/2023 - Analysing the Level Design of Super Mario 64</button></a></div>
+	<div class="filterDiv misc"><a href="/pages/blog/Marcel/Marcel.html"><button class="button buttonN2">18/03/2023 - Marcel the Shell with Shoes On</button></a></div>
 
 	
 	<hr>
