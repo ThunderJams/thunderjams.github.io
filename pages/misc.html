@@ -8,6 +8,52 @@
  <title>Miscellaneous - EwanJams</title>
  <link rel="icon" type="image/x-icon" href="/images/favicon.png">
  <link rel="stylesheet" href="/jamstyle.css">
+ <script>
+
+	function filterSelection(c) {
+	  var x, i;
+	  x = document.getElementsByClassName("filterDiv");
+	  if (c == "all") c = "";
+	  for (i = 0; i < x.length; i++) {
+		w3RemoveClass(x[i], "show");
+		if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+	  }
+
+	  // Add active class to the current button (highlight it)
+	var btnContainer = document.getElementById("myBtnContainer");
+	var btns = btnContainer.getElementsByClassName("buttonN3");
+	for (var i = 0; i < btns.length; i++) {
+	  btns[i].addEventListener("click", function(){
+		var current = document.getElementsByClassName("active");
+		current[0].className = current[0].className.replace(" active", "");
+		this.className += " active";
+	  });
+	}
+	}
+	
+	function w3AddClass(element, name) {
+	  var i, arr1, arr2;
+	  arr1 = element.className.split(" ");
+	  arr2 = name.split(" ");
+	  for (i = 0; i < arr2.length; i++) {
+		if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+	  }
+	}
+	
+	function w3RemoveClass(element, name) {
+	  var i, arr1, arr2;
+	  arr1 = element.className.split(" ");
+	  arr2 = name.split(" ");
+	  for (i = 0; i < arr2.length; i++) {
+		while (arr1.indexOf(arr2[i]) > -1) {
+		  arr1.splice(arr1.indexOf(arr2[i]), 1);     
+		}
+	  }
+	  element.className = arr1.join(" ");
+	}
+	
+	
+</script>
 </head>
 
 <body>
@@ -54,7 +100,27 @@ src="/itchplayer/index.html"></iframe>
 
 <h3 id="2Dart">2D Artwork</h3>
 <h4>When I started at uni, I made a promise that I would try and draw something, every month, to see the improvement process. I kept this up for all of 2020, and whilst I did less in following years, I still try and keep it up.</h4>
+<h4>(There's quite a lot of art here, so I put it under it's own gallery. Click on the button to see it!)</h4>
+<div id="myBtnContainer">
+  <button class="button buttonN3" onclick="filterSelection('gallery');"> Show Gallery</button>
+  <button class="button buttonN3" onclick="filterSelection('all');"> Show Descriptions</button>
+  <button class="button buttonN3" onclick="filterSelection('none');"> Hide Gallery</button>
+  </div>
 </div>
+
+<div class="filterDiv gallery">
+
+<div class="responsiveG">
+  <div class="gallery">
+    <a target="_blank" href="/images/art/jambigousfeelings.jpg">
+      <img src="/images/art/jambigousfeelings.jpg" alt="Art of a laptop with stickers on it, spelling the word ED, and a plug extension with many plugs spelling out the word indies" width="600" height="400">
+    </a>
+    <div class="desc">jambigous feelings (10/04/2024)</div>
+    
+  </div>
+  <div class="filterDiv descriptions">
+  <div class="desc ">I was waiting for something to download, and just kind of started... drawing little characters without an exact set goal. Particularly a fan of the snotty camel, the Breadbus, and cloud with heels.</div>
+  </div></div>
 
 <div class="responsiveG">
 <div class="gallery">
@@ -197,7 +263,7 @@ src="/itchplayer/index.html"></iframe>
 </div>
 <div class="desc">Created for Fire Emblem Compendium - definitely the first piece of digital art I ever did. It was part of a big event to try and make fanart of every Fire Emblem character.</div>
   
-
+</div>
 </div>
 
 
