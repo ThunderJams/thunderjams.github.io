@@ -293,6 +293,8 @@ a {
     font-family: 'Jost-SemiBold', 'SNES', 'Lulo Clean', 'Futura', 'Trebuchet MS', sans-serif;
     font-size: 1.5em;
   }
+
+
 	
 
   
@@ -332,7 +334,38 @@ a {
 
 }
 
+@media screen and (max-width: 1100px) and (min-width: 600px) {
+#grad1 {
+  background-color: #FBD98B; /* For browsers that do not support gradients */
+  /*background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);*/
+  /*background-image: linear-gradient(to bottom right, #3872CA, #d9ed02);*/
+  /*background-image: url('/background.jpg');*/
+  background-image: url('/images/CAtexture9.jpg'); 
+  background-size: cover;
+  border-radius: 12px;
+  border: 6px groove black
+}
+}
+
+@media screen and (max-width: 600px)  {
+  /* Header/Logo Title */
+  #grad1 {
+    background-color: #FBD98B; /* For browsers that do not support gradients */
+    /*background-image: linear-gradient(to bottom right, #D9FDE3,#FBD98B, #F99B9C);*/
+    /*background-image: linear-gradient(to bottom right, #3872CA, #d9ed02);*/
+    /*background-image: url('/background.jpg');*/
+    background-image: url('/images/CAtexture8.jpg'); 
+    background-size: cover;
+    border-radius: 12px;
+    border: 6px groove black
+  }
+  }
+  
+
 @media screen and (max-width: 1200px) {
+  
+ 
+  
 .header a {
     float: none;
 
