@@ -1,0 +1,41 @@
+<html>
+<head>
+<script type="text/javascript">
+<!--
+// Create an array of the links to choose from:
+var links = new Array();
+links[0] = "forhexposure.html";
+links[1] = "freelance.html";
+links[2] = "honoursproject.html";
+links[3] = "uniprojects.html#AR";
+links[4] = "uniprojects.html#Audio";
+links[5] = "gamejams.html#CAT";
+links[6] = "gamejams.html#CT";
+links[7] = "gamejams.html#BF";
+links[8] = "gamejams.html#RH";
+links[9] = "gamejams.html#RR";
+links[10] = "gamejams.html#MR";
+links[11] = "gamejams.html#GG";
+links[12] = "/pages/misc.html#2Dart";
+links[13] = "/pages/misc.html#3Dart";
+links[14] = "/pages/misc.html#Music";
+links[15] = "/pages/misc.html#Web";
+links[16] = "/pages/blog/Melatonin/Melatonin.html";
+links[17] = "/pages/blog/SM64/SM64.html";
+links[18] = "/pages/blog/Marcel/Marcel.html";
+links[19] = "/pages/blog/AGDS/AGDS.html";
+
+
+function openLink() {
+  // Chooses a random link:
+  var i = Math.floor(Math.random() * links.length);
+  // Directs the browser to the chosen target:
+  parent.location = links[i];
+  return false;
+}
+//-->
+</script>
+</head>
+<body onload="openLink();">
+</body>
+</html>
