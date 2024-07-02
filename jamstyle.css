@@ -409,6 +409,12 @@ iframe {
   height: auto;
 }
 
+iframe.vid {
+
+  max-width: 100%;
+  height: 300px;
+}
+
 iframe.audio {
 	width: 420px;
   max-width: 100%;
