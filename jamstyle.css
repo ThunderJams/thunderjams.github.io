@@ -675,6 +675,16 @@ audio{
 	text-align: center;
 }
 
+hr{
+  background-image:url("/images/squiggly-line.png") ;
+  background-position:50%;
+  background-repeat:repeat-x;
+  
+  border:none!important;
+  height:20px;
+}
+
+
 * {
   box-sizing: border-box;
 }
