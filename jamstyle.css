@@ -338,6 +338,15 @@ a {
   float: left;
 	margin-right:0%;
 	margin-left:0%;
+
+  .articlemain {
+    padding:20px;
+    background: rgba(0,0,0,0.7);
+    margin-left: 0%;
+    margin-right: 0%;
+    /*margin-right:200px;
+    margin-left:200px;*/
+  }
 }
 
 
@@ -390,6 +399,15 @@ a {
 	float: left;
 	margin-right:5%;
 	margin-left:5%;
+}
+
+.articlemain {
+  padding:20px;
+  background: rgba(0,0,0,0.7);
+  margin-left: 5%;
+  margin-right: 5%;
+  /*margin-right:200px;
+  margin-left:200px;*/
 }
 
 .responsive {
