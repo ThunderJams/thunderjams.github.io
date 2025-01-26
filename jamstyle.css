@@ -636,6 +636,28 @@ iframe.audio {
   border: 4px solid MediumSlateBlue;
 }
 
+.buttonDBMB:hover {
+
+  background-image: url('/images/buttons/DBMB2.png');
+}
+
+.buttonDBMB {
+  background-color: rgb(255, 255, 255); 
+
+  border: 4px solid rgb(13, 160, 245);
+}
+
+.buttonBGABD:hover {
+
+  background-image: url('/images/buttons/BGABD.png');
+}
+
+.buttonBGABD {
+  background-color: rgb(255, 255, 255); 
+
+  border: 4px solid rgb(232, 48, 149);
+}
+
 .buttonUW:hover {
 
   background-image: url('/images/buttons/UW.png');
