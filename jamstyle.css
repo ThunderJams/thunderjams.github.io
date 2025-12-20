@@ -167,6 +167,7 @@ a{
   
   padding: 20px 10px;
   background-color: black;
+  font-size:120%;
 }
 
 .header a {
@@ -181,9 +182,15 @@ a{
 }
 
 .header a.logo {
-  font-size: 25px;
+  font-size:120%;
+  /*font-size: 25px;*/
   font-weight: bold;
 }
+
+
+
+
+
 
 .header a {
     float: none;
@@ -212,6 +219,7 @@ a{
 	background: rgba(0,0,0,0.8);
 	margin-left: 15%;
 	margin-right: 15%;
+  font-size:110%;
 	/*margin-right:200px;
 	margin-left:200px;*/
 }
@@ -221,6 +229,7 @@ a{
 	background: rgba(0,0,0,0.8);
 	margin-left: 15%;
 	margin-right: 15%;
+  font-size:large;
 	/*margin-right:200px;
 	margin-left:200px;*/
 }
@@ -334,14 +343,14 @@ a {
   
   .bodymain {
 	padding:20px;
-	background: rgba(0,0,0,0.7);
+	background: rgba(0,0,0,0.8);
   float: left;
 	margin-right:0%;
 	margin-left:0%;
 
   .articlemain {
     padding:20px;
-    background: rgba(0,0,0,0.7);
+    background: rgba(0,0,0,0.8);
     margin-left: 0%;
     margin-right: 0%;
     /*margin-right:200px;
@@ -376,6 +385,7 @@ a {
     background-size: cover;
     border-radius: 12px;
     border: 6px groove black
+    
   }
   }
   
@@ -395,7 +405,7 @@ a {
   
   .bodymain {
 	padding:20px;
-	background: rgba(0,0,0,0.7);
+	background: rgba(0,0,0,0.8);
 	float: left;
 	margin-right:5%;
 	margin-left:5%;
@@ -403,7 +413,7 @@ a {
 
 .articlemain {
   padding:20px;
-  background: rgba(0,0,0,0.7);
+  background: rgba(0,0,0,0.8);
   margin-left: 5%;
   margin-right: 5%;
   /*margin-right:200px;
